@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to aaronson.org!"
 date:   2020-04-20 23:07:59 -0500
 categories: jekyll update
 ---
