@@ -1,0 +1,57 @@
+---
+---
+
+@import "minima";
+
+/**
+ * Global changes
+ */
+
+a:hover {
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+/**
+ * Site header
+ */
+
+.site-header {
+    background: $brand-color;
+    border-top: none;
+}
+
+.site-title {
+    font-weight: 700;
+    font-size: 2em;
+
+    &,
+    &:visited {
+        color: white;
+    }
+}
+.site-nav {
+    .page-link {
+        &,
+        &:visited {
+            color: white;
+        }
+    
+        &:hover {
+            opacity: 0.5;
+            text-decoration: none;
+        }
+    }
+
+    @include media-query($on-palm) {
+        background: none;
+
+        .menu-icon > svg {
+            fill: white;
+        }
+
+        .menu-icon:hover {
+            opacity: 0.5;
+        }
+    }
+}
