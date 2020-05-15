@@ -1,4 +1,5 @@
 ---
+
 ---
 
 @import "minima";
@@ -16,14 +17,31 @@ a:hover {
  * Site header
  */
 
+$header-height: 150px;
+
+#header-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    // width: 100%;
+    height: $header-height;
+}
+
+.header-foreground {
+    position: relative;
+    z-index: 1;
+}
+
 .site-header {
     background: $brand-color;
     border-top: none;
+    min-height: $header-height;
 }
 
 .site-title {
     font-weight: 700;
     font-size: 2em;
+    line-height: $header-height;
 
     &,
     &:visited {
@@ -32,6 +50,10 @@ a:hover {
 }
 .site-nav {
     .page-link {
+        line-height: $header-height;
+        font-weight: 600;
+        font-size: 1.2em;
+
         &,
         &:visited {
             color: white;
@@ -45,6 +67,7 @@ a:hover {
 
     @include media-query($on-palm) {
         background: none;
+        top: $header-height / 2 - 19px;
 
         .menu-icon > svg {
             fill: white;
