@@ -25,15 +25,16 @@ $header-height: 150px;
     left: 0;
     // width: 100%;
     height: $header-height;
+    visibility: hidden;
 }
 
-.header-foreground {
+#header-foreground {
     position: relative;
     z-index: 1;
 }
 
 .site-header {
-    background: $brand-color;
+    background-color: $brand-color;
     border-top: none;
     min-height: $header-height;
 }
@@ -45,7 +46,7 @@ $header-height: 150px;
 
     &,
     &:visited {
-        color: white;
+        color: $light-color;
     }
 }
 .site-nav {
@@ -56,7 +57,7 @@ $header-height: 150px;
 
         &,
         &:visited {
-            color: white;
+            color: $light-color;
         }
     
         &:hover {
@@ -64,17 +65,53 @@ $header-height: 150px;
             text-decoration: none;
         }
     }
-
+    
     @include media-query($on-palm) {
         background: none;
+        border: none;
         top: $header-height / 2 - 19px;
 
+        .page-link {
+            line-height: normal;
+        }
+
         .menu-icon > svg {
-            fill: white;
+            fill: $light-color;
         }
 
         .menu-icon:hover {
             opacity: 0.5;
         }
+
+        label[for="nav-trigger"] {
+            border: 1px solid $light-color;
+            border-radius: 5px;
+        }
+        
+        input:checked ~ label[for="nav-trigger"] {
+            position: fixed;
+            top: $spacing-unit / 2;
+            right: $spacing-unit / 2;
+        }
+        
+        input ~ .trigger {
+            clear: none;
+            display: inline;
+            position: fixed;
+            transition: right 0.5s;
+            right: $spacing-unit * -4;
+            top: 0;
+            padding-right: 0;
+            padding-top: $spacing-unit + 36px;
+            height: 100%;
+            min-width: $spacing-unit * 4;
+            background-color: darken($brand-color, 12%);
+        }
+
+        input:checked ~ .trigger {
+            right: 0;
+            padding-right: $spacing-unit / 2 - 10px;
+        }
     }
 }
+
