@@ -42,12 +42,3 @@ window.onload = function() {
     header = document.getElementById("site-header");
     header.style.background = "url(" + canv.toDataURL() + ")";
 }
-
-/*function handleSidebar(checkbox) {
-    menuIcon = document.getElementById("menu-icon");
-    if (checkbox.checked) {
-        menuIcon.style.right = "100px";
-    } else {
-        //siteNav.style.border = "1px solid #f5f1e3";
-    }
-}*/

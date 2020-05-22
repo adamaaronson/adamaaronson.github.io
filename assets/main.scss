@@ -49,11 +49,24 @@ $header-height: 150px;
         color: $light-color;
     }
 }
+
 .site-nav {
+    .trigger-wrapper {
+        display: table;
+        height: $header-height;
+    }
+    .trigger {
+        display: table-cell;
+        vertical-align: middle;
+    }
+
     .page-link {
-        line-height: $header-height;
+        //line-height: $header-height;
         font-weight: 600;
         font-size: 1.2em;
+        display: block;
+        text-align: right;
+        margin-right: 0 !important;
 
         &,
         &:visited {
@@ -64,6 +77,16 @@ $header-height: 150px;
             opacity: 0.5;
             text-decoration: none;
         }
+
+        &::after {
+            font-family: monospace;
+            content: "\A0";
+            margin-left: 4px;
+        }
+    }
+
+    #active-page::after {
+        content: "\25C2";
     }
     
     @include media-query($on-palm) {
@@ -94,24 +117,104 @@ $header-height: 150px;
             right: $spacing-unit / 2;
         }
         
-        input ~ .trigger {
+        input ~ .trigger-wrapper .trigger {
             clear: none;
             display: inline;
             position: fixed;
             transition: right 0.5s;
-            right: $spacing-unit * -4;
+            right: -$spacing-unit * 5;
             top: 0;
             padding-right: 0;
             padding-top: $spacing-unit + 36px;
             height: 100%;
-            min-width: $spacing-unit * 4;
-            background-color: darken($brand-color, 12%);
+            width: $spacing-unit * 5;
+            //background-color: darken($brand-color, 12%);
+            background-color: $text-color;
         }
 
-        input:checked ~ .trigger {
+        input:checked ~ .trigger-wrapper .trigger {
             right: 0;
             padding-right: $spacing-unit / 2 - 10px;
+        }
+
+        input ~ .trigger-bg {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 0;
+            width: 0;
+            opacity: 0%;
+            transition: opacity 0.5s;
+            background-color: $text-color;
+        }
+
+        input:checked ~ .trigger-bg {
+            opacity: 50%;
+            height: 100%;
+            width: 100%;
         }
     }
 }
 
+/**
+ * Social media links
+ */
+
+.social-media-list {
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+
+    li {
+        display: inline;
+
+        .svg-icon {
+            vertical-align: middle;
+            padding: 0;
+            width: 28px;
+            height: 28px;
+        }
+    }
+
+    .username {
+        display: none;
+    }
+}
+
+#header-foreground > .social-media-list {
+    margin-left: $spacing-unit;
+
+    .svg-icon {
+        fill: $light-color;
+    }
+
+    li {
+        line-height: $header-height;
+
+        &:not(:last-child) {
+            margin-right: $spacing-unit * 0.6;
+        }
+    }
+
+    @include media-query($on-palm) {
+        display: none;
+    }
+}
+
+.trigger > .social-media-list {
+    display: none;
+    padding-right: $spacing-unit / 2 - 5px;
+    margin-top: 10px;
+
+    .svg-icon {
+        fill: $light-color;
+    }
+
+    li:not(:last-child) {
+        margin-right: $spacing-unit * 0.2;
+    }
+
+    @include media-query($on-palm) {
+        display: inline-block;
+    }
+}
