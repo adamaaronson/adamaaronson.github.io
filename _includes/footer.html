@@ -3,7 +3,23 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <div class="social-links">
+      <a class="home-link" href="./">Aaronson.org</a>
+      {%- include social.html -%}
+      <a class="email-link" href="mailto:{{ site.email }}">Email me!</a>
+    </div>
+
+    <span class="copyright">
+      &copy;
+      <script>
+        document.write(new Date().getFullYear() + " ");
+      </script>
+      {%- if site.author -%}
+        {{ site.author | escape | append: ", all rights reserved" }}
+      {%- endif -%}
+    </span>
+
+    <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
@@ -26,9 +42,9 @@
       </div>
 
       <div class="footer-col footer-col-3">
-        <!--<p>{{- site.description | escape -}}</p>-->
+        <p>{{- site.description | escape -}}</p>
       </div>
-    </div>
+    </div>-->
 
   </div>
 

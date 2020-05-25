@@ -37,6 +37,7 @@ $header-height: 150px;
     background-color: $brand-color;
     border-top: none;
     min-height: $header-height;
+    border: none;
 }
 
 .site-title {
@@ -61,7 +62,6 @@ $header-height: 150px;
     }
 
     .page-link {
-        //line-height: $header-height;
         font-weight: 600;
         font-size: 1.2em;
         display: block;
@@ -96,6 +96,9 @@ $header-height: 150px;
 
         .page-link {
             line-height: normal;
+            &::after {
+                content: "" !important;
+            }
         }
 
         .menu-icon > svg {
@@ -134,7 +137,7 @@ $header-height: 150px;
 
         input:checked ~ .trigger-wrapper .trigger {
             right: 0;
-            padding-right: $spacing-unit / 2 - 10px;
+            padding-right: $spacing-unit / 2 - 14px;
         }
 
         input ~ .trigger-bg {
@@ -203,7 +206,7 @@ $header-height: 150px;
 
 .trigger > .social-media-list {
     display: none;
-    padding-right: $spacing-unit / 2 - 5px;
+    padding-right: $spacing-unit / 2;
     margin-top: 10px;
 
     .svg-icon {
@@ -217,4 +220,68 @@ $header-height: 150px;
     @include media-query($on-palm) {
         display: inline-block;
     }
+}
+
+/**
+ * Site footer
+ */
+
+.site-footer {
+    background-color: $light-color;
+    border: none;
+    text-align: center;
+    padding: $spacing-unit * 0.6;
+}
+
+.site-footer .social-media-list {
+    margin-bottom: $spacing-unit * 0.4;
+
+    .svg-icon {
+        fill: $text-color;
+        vertical-align: text-top;
+        width: 20px;
+        height: 20px;
+    }
+
+    li:not(:last-child) {
+        margin-right: $spacing-unit * 0.2;
+    }
+}
+
+.home-link {
+    border-right: 1px solid $text-color;
+    padding-right: $spacing-unit * 0.3;
+    margin-right: $spacing-unit * 0.3;
+
+    &:hover {
+        opacity: 1;
+        color: $text-color-hover;
+    }
+
+    &,
+    &:visited {
+        color: $text-color;
+    }
+}
+
+.email-link {
+    border-left: 1px solid $text-color;
+    padding-left: $spacing-unit * 0.3;
+    margin-left: $spacing-unit * 0.3;
+
+    &:hover {
+        opacity: 1;
+        color: $text-color-hover;
+    }
+
+    &,
+    &:visited {
+        color: $text-color;
+    }
+}
+
+
+
+.site-footer .copyright {
+    font-size: small;
 }

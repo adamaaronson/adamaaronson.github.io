@@ -4,4 +4,5 @@
 
 title: Home
 layout: home
+position: 1
 ---
