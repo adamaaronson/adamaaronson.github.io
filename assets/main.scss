@@ -5,15 +5,6 @@
 @import "minima";
 
 /**
- * Global changes
- */
-
-a:hover {
-    opacity: 0.5;
-    text-decoration: none;
-}
-
-/**
  * Site header
  */
 
@@ -254,7 +245,7 @@ $header-height: 150px;
     margin-right: $spacing-unit * 0.3;
 
     &:hover {
-        opacity: 1;
+        opacity: 1 !important;
         color: $text-color-hover;
     }
 
@@ -270,7 +261,7 @@ $header-height: 150px;
     margin-left: $spacing-unit * 0.3;
 
     &:hover {
-        opacity: 1;
+        opacity: 1 !important;
         color: $text-color-hover;
     }
 
@@ -280,8 +271,92 @@ $header-height: 150px;
     }
 }
 
-
-
 .site-footer .copyright {
     font-size: small;
+}
+
+/**
+ * Links
+ */
+
+.site-header a:hover, .site-footer a:hover {
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+.page-content a {
+    font-weight: 600;
+    text-decoration: none;
+    border-bottom: 2px solid $brand-color;
+
+    &, &:visited {
+        color: $brand-color;
+    }
+
+    &:hover {
+        color: $light-color;
+        background-color: $brand-color;
+    }
+}
+
+/**
+ * All pages
+ */
+
+.page-content {
+    h1, h2, h3, h4, h5, h6 {
+        font-weight: 600;
+    }
+}
+
+/**
+ * Home
+ */
+
+//  @media all and (min-width: $on-palm) {
+//     .home-page-content {
+//         height: 100%;
+//         background: thistle;
+//     }
+//     .home-wrapper {
+//         vertical-align: middle;
+//         background: darkslateblue;
+//     }
+//  }
+
+
+.home {
+    h3 {
+        font-weight: 700;
+        color: $brand-color;
+    }
+
+    .main-wrapper {
+        display: flex;
+        @include media-query($on-palm) {
+            flex-direction: column;
+        }
+    }
+
+    .main-content {
+        margin-right: $spacing-unit;
+        flex: 3;
+
+        @include media-query($on-palm) {
+            margin-right: 0;
+            margin-bottom: $spacing-unit;
+        }
+    }
+
+    .main-image {
+        flex: 2;
+        width: 100%;
+        background-image: url("/assets/adam.jpg");
+        background-position: center;
+        background-size: cover;
+
+        @include media-query($on-palm) {
+            min-height: 600px;
+        }
+    }
 }
