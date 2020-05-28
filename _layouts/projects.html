@@ -1,0 +1,23 @@
+---
+layout: page
+---
+
+{{content}}
+
+<div class="projects">
+    {% assign sorted_projects = site.projects | sort: "position" %}
+    {% for project in sorted_projects %}
+        <div class="project-box">
+            <div class="project-title">
+                <h2><a href="{{ project.permalink }}">{{ project.title }}</a></h3>
+                <h5>{{ project.subtitle }}</h4>
+            </div>
+            <div class="project-image-box" style="background: url()">
+                <img class="project-image" src="{{ project.image | prepend: "/assets/images/"}}"></img>
+            </div>
+            <div class="project-description">
+                <p>{{ project.content }}</p>
+            </div>
+        </div>
+    {% endfor %}
+</div>

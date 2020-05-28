@@ -1,0 +1,51 @@
+---
+
+---
+
+@import "minima";
+
+/**
+ * Links
+ */
+
+.site-header a:hover, .site-footer a:hover {
+    opacity: 0.5;
+    text-decoration: none !important;
+}
+
+.page-content a {
+    font-weight: 600;
+    text-decoration: none !important;
+    border-bottom: 2px solid $brand-color;
+
+    &, &:visited {
+        color: $brand-color;
+    }
+
+    &:hover {
+        color: $light-color;
+        background-color: $brand-color;
+        text-decoration: none !important;
+    }
+}
+
+/**
+ * All pages
+ */
+
+.page-content {
+    h1, h2, h3, h4, h5, h6 {
+        font-weight: 700;
+        color: $brand-color;
+    }
+
+    ::selection {
+        background: $brand-color;
+        color: $light-color;
+    }
+    
+    ::-moz-selection {
+        background: $brand-color;
+        color: $light-color;
+    }
+}

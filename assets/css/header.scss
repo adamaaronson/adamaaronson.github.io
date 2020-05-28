@@ -4,10 +4,6 @@
 
 @import "minima";
 
-/**
- * Site header
- */
-
 $header-height: 150px;
 
 #header-background {
@@ -25,20 +21,19 @@ $header-height: 150px;
 }
 
 .site-header {
-    background-color: $brand-color;
-    border-top: none;
-    min-height: $header-height;
-    border: none;
+    background-color: $brand-color !important;
+    min-height: $header-height !important;
+    border: none !important;
 }
 
 .site-title {
-    font-weight: 700;
-    font-size: 2em;
-    line-height: $header-height;
+    font-weight: 700 !important;
+    font-size: 2em !important;
+    line-height: $header-height !important;
 
     &,
     &:visited {
-        color: $light-color;
+        color: $light-color !important;
     }
 }
 
@@ -81,9 +76,9 @@ $header-height: 150px;
     }
     
     @include media-query($on-palm) {
-        background: none;
-        border: none;
-        top: $header-height / 2 - 19px;
+        background: none !important;
+        border: none !important;
+        top: $header-height / 2 - 19px !important;
 
         .page-link {
             line-height: normal;
@@ -93,7 +88,7 @@ $header-height: 150px;
         }
 
         .menu-icon > svg {
-            fill: $light-color;
+            fill: $light-color !important;
         }
 
         .menu-icon:hover {
@@ -210,153 +205,5 @@ $header-height: 150px;
 
     @include media-query($on-palm) {
         display: inline-block;
-    }
-}
-
-/**
- * Site footer
- */
-
-.site-footer {
-    background-color: $light-color;
-    border: none;
-    text-align: center;
-    padding: $spacing-unit * 0.6;
-}
-
-.site-footer .social-media-list {
-    margin-bottom: $spacing-unit * 0.4;
-
-    .svg-icon {
-        fill: $text-color;
-        vertical-align: text-top;
-        width: 20px;
-        height: 20px;
-    }
-
-    li:not(:last-child) {
-        margin-right: $spacing-unit * 0.2;
-    }
-}
-
-.home-link {
-    border-right: 1px solid $text-color;
-    padding-right: $spacing-unit * 0.3;
-    margin-right: $spacing-unit * 0.3;
-
-    &:hover {
-        opacity: 1 !important;
-        color: $text-color-hover;
-    }
-
-    &,
-    &:visited {
-        color: $text-color;
-    }
-}
-
-.email-link {
-    border-left: 1px solid $text-color;
-    padding-left: $spacing-unit * 0.3;
-    margin-left: $spacing-unit * 0.3;
-
-    &:hover {
-        opacity: 1 !important;
-        color: $text-color-hover;
-    }
-
-    &,
-    &:visited {
-        color: $text-color;
-    }
-}
-
-.site-footer .copyright {
-    font-size: small;
-}
-
-/**
- * Links
- */
-
-.site-header a:hover, .site-footer a:hover {
-    opacity: 0.5;
-    text-decoration: none;
-}
-
-.page-content a {
-    font-weight: 600;
-    text-decoration: none;
-    border-bottom: 2px solid $brand-color;
-
-    &, &:visited {
-        color: $brand-color;
-    }
-
-    &:hover {
-        color: $light-color;
-        background-color: $brand-color;
-    }
-}
-
-/**
- * All pages
- */
-
-.page-content {
-    h1, h2, h3, h4, h5, h6 {
-        font-weight: 600;
-    }
-}
-
-/**
- * Home
- */
-
-//  @media all and (min-width: $on-palm) {
-//     .home-page-content {
-//         height: 100%;
-//         background: thistle;
-//     }
-//     .home-wrapper {
-//         vertical-align: middle;
-//         background: darkslateblue;
-//     }
-//  }
-
-
-.home {
-    h3 {
-        font-weight: 700;
-        color: $brand-color;
-    }
-
-    .main-wrapper {
-        display: flex;
-        @include media-query($on-palm) {
-            flex-direction: column;
-        }
-    }
-
-    .main-content {
-        margin-right: $spacing-unit;
-        flex: 3;
-
-        @include media-query($on-palm) {
-            margin-right: 0;
-            margin-bottom: $spacing-unit;
-        }
-    }
-
-    .main-image {
-        flex: 2;
-        width: 100%;
-        background-image: url("/assets/adam.jpg");
-        background-position: center;
-        background-size: cover;
-
-        @include media-query($on-palm) {
-            min-height: 600px;
-        }
     }
 }

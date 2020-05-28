@@ -1,0 +1,40 @@
+---
+
+---
+
+@import "minima";
+
+/**
+ * Home
+ */
+
+ .home {
+    .main-wrapper {
+        display: flex;
+        @include media-query($on-palm) {
+            flex-direction: column;
+        }
+    }
+
+    .main-content {
+        margin-right: $spacing-unit;
+        flex-grow: 3;
+
+        @include media-query($on-palm) {
+            margin-right: 0;
+            margin-bottom: $spacing-unit;
+        }
+    }
+
+    .main-image {
+        flex-grow: 2;
+        width: 100%;
+        background-image: url("/assets/images/adam.jpg");
+        background-position: center;
+        background-size: cover;
+
+        @include media-query($on-palm) {
+            min-height: 600px;
+        }
+    }
+}
