@@ -8,16 +8,43 @@
  * Projects
  */
 
- .project-box {
+.project-box {
     background-color: $grey-color-light;
     border-radius: $big-border-radius;
     display: flex;
     flex-flow: row wrap;
     align-items: center;
-    margin-bottom: $spacing-unit;
+    margin-bottom: $spacing-unit !important;
+    position: relative;
+    transition: transform 0.3s;
+
+    &:hover {
+        transform: scale(1.03);
+    }
 
     & > * {
         flex: 1 100%;
+    }
+}
+
+.project-link-wrapper {
+    border: none !important;
+}
+
+.project-link {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+
+    &:hover {
+        background: none !important;
+        color: currentColor !important;
+    }
+
+    &:visited {
+        color: currentColor !important;
     }
 }
 
@@ -30,7 +57,7 @@
 
     h2 {
         margin-top: 0;
-        margin-bottom: $spacing-unit / 4;
+        margin-bottom: 0;
     }
 
     h5 {
@@ -80,17 +107,22 @@
             border-top-left-radius: $big-border-radius;
         }
 
-        .project-image-box {
+        .project-link-wrapper {
             order: 1;
+            flex: 0;
+        }
+
+        .project-image-box { 
+            order: 2;
         }
 
         .project-title {
-            order: 2;
+            order: 3;
             text-align: right;
         }
 
         .project-description {
-            order: 3;
+            order: 4;
         }
     }
 }

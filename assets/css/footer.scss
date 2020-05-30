@@ -6,9 +6,9 @@
 
 .site-footer {
     background-color: $light-color;
-    border: none;
+    border: none !important;
     text-align: center;
-    padding: $spacing-unit * 0.6;
+    padding: $spacing-unit * 0.6 !important;
 
     ::selection {
         background: $brand-color;
@@ -37,34 +37,24 @@
 }
 
 .home-link {
+    font-size: 1em;
     border-right: 1px solid $text-color;
     padding-right: $spacing-unit * 0.3;
     margin-right: $spacing-unit * 0.3;
 
-    &:hover {
-        opacity: 1 !important;
-        color: $text-color-hover;
-    }
-
-    &,
-    &:visited {
-        color: $text-color;
+    a, a:visited {
+        color: $text-color !important;
     }
 }
 
 .email-link {
+    font-size: 1em;
     border-left: 1px solid $text-color;
     padding-left: $spacing-unit * 0.3;
     margin-left: $spacing-unit * 0.3;
 
-    &:hover {
-        opacity: 1 !important;
-        color: $text-color-hover;
-    }
-
-    &,
-    &:visited {
-        color: $text-color;
+    a, a:visited {
+        color: $text-color !important;
     }
 }
 

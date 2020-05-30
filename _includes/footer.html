@@ -4,12 +4,10 @@
   <div class="wrapper">
 
     <div class="social-links">
-      <a class="home-link" href="./">Aaronson.org</a>
-      {%- include social.html -%}
-      <a class="email-link" href="mailto:{{ site.email }}">Email me!</a>
+      <span class="home-link"><a href="./">Aaronson.org</a></span>{%- include social.html -%}<span class="email-link"><a href="mailto:{{ site.email }}">Email me!</a></span>
     </div>
 
-    <span class="copyright">
+    <div class="copyright">
       &copy;
       <script>
         document.write(new Date().getFullYear() + " ");
@@ -17,7 +15,7 @@
       {%- if site.author -%}
         {{ site.author | escape | append: ", all rights reserved" }}
       {%- endif -%}
-    </span>
+    </div>
 
     <!-- <h2 class="footer-heading">{{ site.title | escape }}</h2>
 

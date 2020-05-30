@@ -1,0 +1,32 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<div class="crosswords">
+    {% assign sorted_crosswords = site.crosswords | sort: "date" | reverse %}
+    {% for crossword in sorted_crosswords %}
+        <div class="crossword-box">
+            <a class="crossword-link-wrapper" href="{{ crossword.url }}">
+                <span class="crossword-link"></span>
+            </a>
+            <div class="crossword-title">
+                <h4>{{ crossword.title }}</h4>
+            </div>
+            <div class="crossword-info">
+                <div class="crossword-date">
+                    {{ crossword.date | date: "%-m/%-d/%y" }}
+                </div>
+                <div class="crossword-difficulty">
+                    <span class="crossword-difficulty-label {{ crossword.difficulty }}">
+                        {{ crossword.difficulty | upcase }}
+                    </span>
+                </div>
+            </div>
+            <div class="crossword-image-wrapper">
+                <img class="crossword-image" src="{{ crossword.id | prepend: "/assets/images" | append: ".png"}}" />
+            </div>
+        </div>
+    {% endfor %}
+</div>

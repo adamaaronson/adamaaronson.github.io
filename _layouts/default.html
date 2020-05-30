@@ -7,6 +7,19 @@
 
     {%- include header.html -%}
 
+    {% if page.back-to %}
+      {% for p in site.pages %}
+        {% if p.title == page.back-to %}
+          <div class="back-to">
+            <p class="wrapper">
+              <a href="{{ p.url }}">← Back to {{ p.title }}</a>
+            </p>
+          </div>
+          {% break %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
         {{ content }}

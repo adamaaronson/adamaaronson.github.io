@@ -2,7 +2,7 @@ title: Adam Aaronson
 author: Adam Aaronson
 email: adamaaronson@gmail.com
 description: >-
-  Welcome to Adam Aaronson's creative breeding ground.
+  Software developer, musician, and crossword constructor.
 
 
 twitter_username: aaaronson
@@ -24,9 +24,25 @@ github_username: adamaaronson
 # - username: jekyll2
 #   instance: example.com
 
+header_pages:
+  - index.md
+  - projects.md
+  - crosswords.md
+
 collections:
   projects:
-    
+  crosswords:
+    output: true
+    permalink: /:collection/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "crosswords"
+    values:
+      layout: "crossword"
+      back-to: Crosswords
+      author: Adam Aaronson
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this

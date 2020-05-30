@@ -10,10 +10,11 @@
 
 .site-header a:hover, .site-footer a:hover {
     opacity: 0.5;
+    transition: opacity 0.4s;
     text-decoration: none !important;
 }
 
-.page-content a {
+.page-content a, .back-to a {
     font-weight: 600;
     text-decoration: none !important;
     border-bottom: 2px solid $brand-color;
@@ -33,7 +34,7 @@
  * All pages
  */
 
-.page-content {
+.page-content, .back-to {
     h1, h2, h3, h4, h5, h6 {
         font-weight: 700;
         color: $brand-color;
@@ -47,5 +48,16 @@
     ::-moz-selection {
         background: $brand-color;
         color: $light-color;
+    }
+}
+
+.back-to {
+    background-color: $light-color;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+
+    p {
+        margin-top: $spacing-unit / 4 !important;
+        margin-bottom: $spacing-unit / 3 !important;
     }
 }

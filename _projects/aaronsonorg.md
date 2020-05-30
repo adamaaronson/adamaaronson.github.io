@@ -1,6 +1,6 @@
 ---
 title: Aaronson.org
-subtitle: I'm So Meta, Even This Acronym
+subtitle: So meta, right?
 permalink: https://github.com/adamaaronson/adamaaronson.github.io
 image: aaronsonorg.jpg
 position: 4

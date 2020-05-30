@@ -1,0 +1,105 @@
+---
+
+---
+
+@import "minima";
+
+.crosswords {
+    //margin-top: $spacing-unit;
+    display: grid;
+    grid-gap: $spacing-unit / 2;
+    grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+}
+
+.crossword-link-wrapper {
+    flex: 0;
+    border: 0 !important;
+}
+
+.crossword-link {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+
+    &:hover {
+        background: none !important;
+        color: currentColor !important;
+    }
+
+    &:visited {
+        color: currentColor !important;
+    }
+}
+
+.crossword-box {
+    position: relative;
+    background-color: $grey-color-light;
+    border-radius: $big-border-radius;
+    padding: $spacing-unit / 2;
+    min-height: 180px;
+
+    transition: transform 0.3s;
+
+    &:hover {
+        transform: scale(1.03);
+    }
+
+    display: flex;
+    flex-flow: column;
+    justify-content: flex-start;
+}
+
+.crossword-title {
+    margin-bottom: 0;
+    flex: 0;
+
+    h4 {
+        font-size: 1.2em !important;
+        line-height: 1.2em !important;
+        margin: 0;
+    }
+}
+
+.crossword-info {
+    flex: 1 100%;
+}
+
+.crossword-date {
+    display: inline-block;
+    color: $text-color;
+    font-size: small;
+    margin-right: $spacing-unit / 3;
+}
+
+.crossword-difficulty {
+    display: inline-block;
+    padding: 0px;
+}
+
+.crossword-difficulty-label {
+    color: white;
+    font-weight: 700;
+    font-size: small;
+    border-radius: 9999px;
+    padding: 1px 8px;
+}
+
+.easy {
+    background-color: #1c8532;
+}
+
+.medium {
+    background-color: #eeaa07;
+}
+
+.hard {
+    background-color: #d64f05;
+}
+
+.crossword-image {
+    flex: 0 0 auto;
+    margin-top: $spacing-unit / 2;
+    align-self: flex-end;
+}

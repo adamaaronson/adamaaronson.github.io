@@ -27,7 +27,7 @@
               {%- for path in page_paths -%}
                 {%- assign my_page = sorted_pages | where: "path", path | first -%}
                 {%- if my_page.title -%}
-                <a class="page-link" {% if page.url == my_page.url %}id="active-page"{% endif %} href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                <a class="page-link" {% if page.url == my_page.url or page.back-to and page.back-to == my_page.title %}id="active-page"{% endif %} href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
                 {%- endif -%}
               {%- endfor -%}
               {%- include social.html -%}
