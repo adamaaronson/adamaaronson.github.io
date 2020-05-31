@@ -2,7 +2,7 @@
 title: "Warm Welcome"
 filename: warmwelcome
 difficulty: medium
-date: 2020-05-28
+date: 2020-05-30
 ---
 
 As a warm welcome to my brand new website, I made you all a puzzle with a classic theme type, but a revealer that's a _little_ out-there for a mainstream newspaper (you'll see what I mean). Enjoy, and make sure to pump up this jam while you're solving:<br/><br/>

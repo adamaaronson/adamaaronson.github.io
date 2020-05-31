@@ -2,7 +2,7 @@
 title: "Fearless Flyers (Themeless)"
 filename: fearlessflyers
 difficulty: hard
-date: 2020-05-30
+date: 2020-05-31
 ---
 
 This is one of my favorite themeless puzzles I've constructed. Structurally, it's your bog-standard 72-word themeless, but I've packed it to the brim with quality 7+ letter answers. Hope you enjoy solving it as much as I enjoyed creating it! Oh, and you're legally obligated to listen to this song while you solve.<br/><br/>
