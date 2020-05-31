@@ -44,6 +44,11 @@ defaults:
       back-to: Crosswords
       author: Adam Aaronson
 
+feed:
+  collections:
+    crosswords:
+      path: "/crosswords.xml"
+
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:

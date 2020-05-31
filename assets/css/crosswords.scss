@@ -100,3 +100,32 @@
     margin-top: $spacing-unit / 2;
     align-self: flex-end;
 }
+
+.rss-link-wrapper {
+    margin-top: $spacing-unit;
+}
+
+.rss-link {
+    border: none !important;
+
+    .svg-icon {
+        display: inline-block;
+        fill: $brand-color;
+        vertical-align: middle;
+        width: 20px;
+        height: 20px;
+        margin-right: $spacing-unit / 5;
+    }
+
+    .rss-text {
+        border-bottom: 2px solid $brand-color;
+    }
+
+    &:hover {
+        background: none !important;
+        
+        .rss-text {
+            background: $brand-color;
+        }
+    }
+}

@@ -27,3 +27,11 @@ layout: page
         </div>
     {% endfor %}
 </div>
+
+<div class="rss-link-wrapper">
+    <a class="rss-link" href="{{ 'crosswords.xml' | relative_url }}">
+        <svg class="svg-icon" viewBox="0 0 16 16">
+            <use xlink:href="{{ '/assets/minima-social-icons.svg#rss' | relative_url }}"></use>
+        </svg><span class="rss-text">Subscribe via RSS</span>
+    </a>
+</div>
