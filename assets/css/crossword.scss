@@ -4,3 +4,18 @@
 
 @import "minima";
 
+.crossword-header {
+    h1 {
+        margin-bottom: $spacing-unit / 2;
+    }
+
+    .crossword-date, .crossword-difficulty {
+        font-size: 1em;
+        margin-right: 0;
+    }
+
+    .crossword-difficulty, .crossword-links {
+        display: inline-block;
+        margin-left: $spacing-unit / 2;
+    }
+}

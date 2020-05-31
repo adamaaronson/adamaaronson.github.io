@@ -17,11 +17,8 @@ layout: page
             <div class="crossword-info">
                 <div class="crossword-date">
                     {{ crossword.date | date: "%-m/%-d/%y" }}
-                </div>
-                <div class="crossword-difficulty">
-                    <span class="crossword-difficulty-label {{ crossword.difficulty }}">
-                        {{ crossword.difficulty | upcase }}
-                    </span>
+                </div><div class="crossword-difficulty {{ crossword.difficulty }}">
+                    {{ crossword.difficulty | upcase }}
                 </div>
             </div>
             <div class="crossword-image-wrapper">
