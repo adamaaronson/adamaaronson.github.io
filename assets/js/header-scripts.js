@@ -10,8 +10,8 @@ window.onload = function() {
     canv = document.getElementById("header-background");
     c = canv.getContext("2d");
 
-    canv.width = 1200;
-    canv.height = canv.offsetHeight;
+    canv.width = 2 * 1200;
+    canv.height = 2 * canv.offsetHeight;
     width = canv.width;
     height = canv.height;
 
@@ -41,4 +41,5 @@ window.onload = function() {
 
     header = document.getElementById("site-header");
     header.style.background = "url(" + canv.toDataURL() + ")";
+    header.style.backgroundSize = "auto " + header.offsetHeight + "px";
 }
