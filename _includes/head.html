@@ -29,8 +29,13 @@
   <script src="{{ "/assets/js/header-scripts.js" | relative_url }}" type="text/javascript"></script>
 
   <!-- Social media metadata -->
-  <meta name="og:image" content="https://aaronson.org/assets/images/social-image.jpg" />
-  <meta name="og:title" content="{{ page.title }} | Adam Aaronson" />
+  {%- if page.collection == 'crosswords' -%}
+    <meta name="og:image" content="https://aaronson.org/assets/images{{ page.id }}.png" />
+    <meta name="og:title" content="Crossword: {{ page.title }} | Adam Aaronson" />
+  {%- else -%}
+    <meta name="og:image" content="https://aaronson.org/assets/images/social-image.jpg" />
+    <meta name="og:title" content="{{ page.title }} | Adam Aaronson" />
+  {%- endif -%}
 
   <meta name="twitter:image" content="https://aaronson.org/assets/images/twitter-image.jpg" />
   <meta name="twitter:card" content="summary" />
