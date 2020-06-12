@@ -4,6 +4,45 @@
 
 @import "minima";
 
+.crosswords-header-wrapper {
+    text-align: center;
+    padding-top: 2 * $spacing-unit;
+}
+
+.crosswords-header h3 {
+    font-size: 1.7em !important;
+    line-height: 1em;
+    margin: 0;
+}
+
+.crosswords-header h4 {
+    font-weight: 600;
+}
+
+.crosswords-wrapper {
+    position: relative;
+}
+
+.crosswords-background {
+    position: absolute;
+    z-index: -1;
+    top: -0.8 * $spacing-unit;
+    left: 10%;
+    width: 80%;
+    height: 100%;
+    background: url("/assets/images/crosswordheader.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: top center;
+    opacity: 0.17;
+}
+
+@include media-query($on-palm) {
+    .crosswords-background {
+        top: 0;
+    }
+}
+
 .crosswords {
     //margin-top: $spacing-unit;
     display: grid;

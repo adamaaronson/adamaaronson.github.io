@@ -4,28 +4,37 @@ layout: page
 
 {{ content }}
 
-<div class="crosswords">
-    {% assign sorted_crosswords = site.crosswords | sort: "date" | reverse %}
-    {% for crossword in sorted_crosswords %}
-        <div class="crossword-box">
-            <a class="crossword-link-wrapper" href="{{ crossword.url }}">
-                <span class="crossword-link"></span>
-            </a>
-            <div class="crossword-title">
-                <h4>{{ crossword.title }}</h4>
-            </div>
-            <div class="crossword-info">
-                <div class="crossword-date">
-                    {{ crossword.date | date: "%-m/%-d/%y" }}
-                </div><div class="crossword-difficulty {{ crossword.difficulty }}">
-                    {{ crossword.difficulty | upcase }}
+<div class="crosswords-wrapper">
+    <div class="crosswords-background"></div>
+    <div class="crosswords-header-wrapper">
+        <div class="crosswords-header">
+            <h3>Aaronson.org crosswords</h3>
+            <h4>by Adam Aaronson</h4>
+        </div>
+    </div>
+    <div class="crosswords">
+        {% assign sorted_crosswords = site.crosswords | sort: "date" | reverse %}
+        {% for crossword in sorted_crosswords %}
+            <div class="crossword-box">
+                <a class="crossword-link-wrapper" href="{{ crossword.url }}">
+                    <span class="crossword-link"></span>
+                </a>
+                <div class="crossword-title">
+                    <h4>{{ crossword.title }}</h4>
+                </div>
+                <div class="crossword-info">
+                    <div class="crossword-date">
+                        {{ crossword.date | date: "%-m/%-d/%y" }}
+                    </div><div class="crossword-difficulty {{ crossword.difficulty }}">
+                        {{ crossword.difficulty | upcase }}
+                    </div>
+                </div>
+                <div class="crossword-image-wrapper">
+                    <img class="crossword-image" src="{{ crossword.id | prepend: "/assets/images" | append: ".png"}}" />
                 </div>
             </div>
-            <div class="crossword-image-wrapper">
-                <img class="crossword-image" src="{{ crossword.id | prepend: "/assets/images" | append: ".png"}}" />
-            </div>
-        </div>
-    {% endfor %}
+        {% endfor %}
+    </div>
 </div>
 
 <!-- Begin Mailchimp Signup Form -->
