@@ -9,13 +9,45 @@
         margin-bottom: $spacing-unit / 2;
     }
 
-    .crossword-date, .crossword-difficulty {
-        font-size: 1em;
-        margin-right: 0;
-    }
-
-    .crossword-difficulty, .crossword-links {
+    .crossword-info > * {
         display: inline-block;
-        margin-left: $spacing-unit / 2;
+        font-size: 1em;
+        margin-right: $spacing-unit / 2;
     }
 }
+
+.crossword-content img {
+    width: min(100%, 450px);
+    display: block;
+    margin: 0 auto;
+}
+
+// .side-by-side-wrapper {
+//     display: flex;
+//     justify-content: space-between;
+//     width: 100%;
+// }
+
+// .side-by-side {
+//     position: relative;
+//     display: inline-block;
+//     width: 48%;
+//     padding-bottom: 36%;
+// }
+
+// .side-by-side > * {
+//     position: absolute;
+//     // margin-right: 15px;
+// }
+
+// @include media-query($on-palm) {
+//     .side-by-side-wrapper {
+//         flex-flow: column wrap;
+    
+//     }
+
+//     .side-by-side {
+//         width: 100%;
+//         padding-bottom: 75%;
+//     }
+// }

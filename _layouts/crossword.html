@@ -11,7 +11,9 @@ layout: default
     <header class="post-header crossword-header">
         <h1 class="post-title">Crossword: {{ page.title | escape }}</h1>
         <div class="crossword-info">
-            <div class="crossword-date">
+            <div class="crossword-author">
+                by {{page.author}}
+            </div><div class="crossword-date">
                 {{ page.date | date: site.minima.date_format }}
             </div><div class="crossword-difficulty {{ page.difficulty }}">
                 {{ page.difficulty | upcase }}
