@@ -3,10 +3,25 @@ layout: default
 ---
 
 <div class="home">
-  <div class="main-wrapper">
-    <div class="main-content">
+  <div class="home-wrapper">
+    <div class="home-content">
       {{ content }}
     </div>
-    <div class="main-image"></div>
+    <div class="home-image"></div>
+  </div>
+
+  <div class="try-box-wrapper">
+    <div class="try-box">
+      {% assign crossword = site.crosswords | sort: "date" | last %}
+      <div class="try-box-label">
+        <h4>Try my latest crossword puzzle! →</h4>
+      </div>
+      <a class="crossword-link-wrapper" href="{{ crossword.url }}">
+        <span class="crossword-link"></span>
+      </a>  
+      <div class="try-box-image-wrapper">
+          <img class="try-box-image" src="{{ crossword.id | prepend: "/assets/images" | append: ".png"}}" />
+      </div>
+    </div>
   </div>
 </div>

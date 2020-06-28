@@ -8,33 +8,64 @@
  * Home
  */
 
- .home {
-    .main-wrapper {
-        display: flex;
-        @include media-query($on-palm) {
-            flex-direction: column;
-        }
+.home-wrapper {
+    display: flex;
+    @include media-query($on-palm) {
+        flex-direction: column;
+    }
+}
+
+.home-content {
+    margin-right: $spacing-unit;
+    flex-grow: 3;
+
+    @include media-query($on-palm) {
+        margin-right: 0;
+        margin-bottom: $spacing-unit;
+    }
+}
+
+.home-image {
+    flex-grow: 2;
+    width: 100%;
+    background-image: url("/assets/images/adam.jpg");
+    background-position: center;
+    background-size: cover;
+
+    @include media-query($on-palm) {
+        padding-top: min(540px, 120%);
+    }
+}
+
+.try-box-wrapper {
+    width: 100%;
+}
+
+.try-box {
+    display: flex;
+    box-sizing: border-box;
+    background-color: $grey-color-light;
+    border-radius: $big-border-radius;
+    padding: $spacing-unit / 2;
+    align-items: center;
+    justify-content: space-between;
+    width: min(350px, 100%);
+    margin: $spacing-unit auto 0 auto;
+    position: relative;
+
+    &:hover {
+        transform: scale(1.03);
     }
 
-    .main-content {
-        margin-right: $spacing-unit;
-        flex-grow: 3;
+    transition: transform 0.3s;
+}
 
-        @include media-query($on-palm) {
-            margin-right: 0;
-            margin-bottom: $spacing-unit;
-        }
-    }
+.try-box-label > * {
+    margin: 0;
+}
 
-    .main-image {
-        flex-grow: 2;
-        width: 100%;
-        background-image: url("/assets/images/adam.jpg");
-        background-position: center;
-        background-size: cover;
-
-        @include media-query($on-palm) {
-            padding-top: min(540px, 120%);
-        }
-    }
+.try-box-image-wrapper {
+    width: 50px;
+    height: 50px;
+    flex: 0 0 auto;
 }
