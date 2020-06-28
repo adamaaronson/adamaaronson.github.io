@@ -17,7 +17,9 @@ layout: page
     <div class="crosswords">
         {% assign sorted_crosswords = site.crosswords | sort: "date" | reverse %}
         {% for crossword in sorted_crosswords %}
-            <div class="crossword-box">
+            {% assign week_ago_date = 'now' | date: '%s' | minus: 604800 %}
+            {% assign crossword_date = crossword.date | date: '%s' | plus: 0 %}
+            <div class="crossword-box {% if week_ago_date < crossword_date %}new-crossword-box{% endif %}">
                 <a class="crossword-link-wrapper" href="{{ crossword.url }}">
                     <span class="crossword-link"></span>
                 </a>
