@@ -34,7 +34,7 @@
         background-size: cover;
 
         @include media-query($on-palm) {
-            min-height: 600px;
+            padding-top: min(540px, 120%);
         }
     }
 }
