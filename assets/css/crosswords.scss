@@ -4,6 +4,10 @@
 
 @import "minima";
 
+$easy-color: #1c8532;
+$medium-color: #eeaa07;
+$hard-color: #d64f05;
+
 .crosswords-wrapper {
     position: relative;
 }
@@ -92,6 +96,14 @@
     justify-content: flex-start;
 }
 
+.crossword-box:first-child::before {
+    content: "\2193  NEW!";
+    position: absolute;
+    top: -10px - $spacing-unit / 2;
+    font-weight: 700;
+    color: $hard-color;
+}
+
 .crossword-title {
     margin-bottom: 0;
     flex: 0;
@@ -125,15 +137,15 @@
 }
 
 .easy {
-    background-color: #1c8532;
+    background-color: $easy-color;
 }
 
 .medium {
-    background-color: #eeaa07;
+    background-color: $medium-color;
 }
 
 .hard {
-    background-color: #d64f05;
+    background-color: $hard-color;
 }
 
 .crossword-image {
