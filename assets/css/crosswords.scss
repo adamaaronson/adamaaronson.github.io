@@ -96,7 +96,7 @@ $hard-color: #d64f05;
     justify-content: flex-start;
 }
 
-.new-crossword-box::before {
+.crossword-box:first-child::before {
     content: "\2193  NEW!";
     position: absolute;
     top: -10px - $spacing-unit / 2;
