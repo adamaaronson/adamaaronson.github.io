@@ -2,7 +2,7 @@
 title: "Fun Size #3"
 filename: funsize03
 difficulty: easy
-date: 2020-07-15
+date: 2020-07-16
 ---
 
 It's the third Fun Size puzzle! A certain entry in this is unintentionally timely, due to this recent [sad news](https://www.hollywoodreporter.com/news/joanna-cole-dead-author-magic-school-bus-book-series-dies-at-75-1303345) (don't click if you don't want spoilers). Enjoy the solve!<br/><br/>
