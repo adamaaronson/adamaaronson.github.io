@@ -2,7 +2,7 @@
 title: "Ya Like Jazz?"
 filename: yalikejazz
 difficulty: medium
-date: 2020-08-05
+date: 2020-08-06
 ---
 
 Hey all you hep cats! Hope you've been shedding your bebop chops, cuz I got a burnin' puzzle for ya!
