@@ -7,7 +7,7 @@ date: 2020-10-28
 
 It's about time for another themeless crossword! This is a pretty standard-looking themeless grid, but there should be some Certified Fresh™ content all throughout.
 
-In other news, I just voted in my very first general election! It felt so gratifying to exercise my civil duty, and I highly recommend that you do the same if you haven't already. And if you can, don't wait until Election Day—[this video](https://youtu.be/gWpdkmKMjeA) lays out some great reasons why. Among the candidates I was excited to vote for is this puzzle's very own 36-Down!
+In other news, this past week I voted in my very first general election! It felt so gratifying to exercise my civic duty, and I highly recommend that you do the same if you haven't already. And if you can, don't wait until Election Day—[this video](https://youtu.be/gWpdkmKMjeA) lays out some great reasons why. Among the candidates I was excited to vote for is this puzzle's very own 36-Down!
 
 Enjoy the puzzle, and give this a listen while you solve! I've been *obsessed* with [this Cory Wong album](https://open.spotify.com/album/7BWRgbyTOEjtPyVUnTxwj8?si=k12v3e6ESO2vAresLsJBgg) since it came out on Friday:<br/>
 
