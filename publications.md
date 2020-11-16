@@ -19,3 +19,5 @@ Saturday, Aug. 1, 2020 | _The New York Times_ | [Untitled (Themeless w/ Paolo Pa
 [Illinois student's puzzle to appear in The New York Times](https://news.illinois.edu/view/6367/805278) (_Illinois News Bureau_, Jan. 2, 2020)
 
 [The puzzle maker](https://las.illinois.edu/news/2020-04-13/puzzle-maker) (_Illinois LAS News_, Apr. 13, 2020)
+
+[IL Teen Creates NYT Crosswords](https://will.illinois.edu/21stshow/story/il-teen-creates-nyt-crosswords) (Illinois Public Media's _The 21st Show_, Nov. 12, 2020)
