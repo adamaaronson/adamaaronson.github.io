@@ -10,6 +10,7 @@ I've been lucky enough to have some of my crossword puzzles published in real li
 Saturday, Jan. 4, 2020 | _The New York Times_ | [Untitled (Themeless)](https://www.nytimes.com/crosswords/game/daily/2020/01/04)*
 Monday, Feb. 3, 2020 | _The Wall Street Journal_ | [Dynamic Range (w/ Joey Swidler)](https://blogs.wsj.com/puzzle/2020/02/03/dynamic-range-monday-crossword-february-3/)
 Saturday, Aug. 1, 2020 | _The New York Times_ | [Untitled (Themeless w/ Paolo Pasco)](https://www.nytimes.com/crosswords/game/daily/2020/08/01)*
+Friday, Nov. 20, 2020 | _Universal Crossword_ | [Small Screen](/assets/pdf/smallscreen.pdf) ([puz](/assets/puz/smallscreen.puz), [solution](/assets/pdf/smallscreensolution.pdf))
 
 \* = subscription required
 
