@@ -6,7 +6,8 @@
 
 $easy-color: #1c8532;
 $medium-color: #eeaa07;
-$hard-color: #d64f05;
+$tricky-color: #ed8607;
+$hard-color: #d63b05;
 
 .crosswords-wrapper {
     position: relative;
@@ -142,6 +143,10 @@ $hard-color: #d64f05;
 
 .medium {
     background-color: $medium-color;
+}
+
+.tricky {
+    background-color: $tricky-color;
 }
 
 .hard {
