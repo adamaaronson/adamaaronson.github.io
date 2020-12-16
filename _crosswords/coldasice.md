@@ -9,7 +9,7 @@ And just like that, I'm back with another brand new themeless crossword! This pu
 
 Incidentally, I'm not the only one to have recently explored double stagger stacks like this! My good buds [Sid Sivakumar](https://www.sidsgrids.com/post/puzzle-50-themeless) and [Ricky Cruz](https://cruzzles.blogspot.com/2020/12/puzzle-34-limited-edition-themeless.html) had some dank double-stagger-stack action afoot in their latest themelesses, both of which I wholeheartedly endorse.
 
-With that, enjoy the crossword! Oh and shoutout to my roommate 5-Across.
+With that, enjoy the crossword! Oh and shoutout to my roommate, 5-Across.
 
 <iframe width="100%" height="200px" src="https://www.youtube.com/embed/dCf3k2VMM0w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 
