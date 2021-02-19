@@ -2,7 +2,7 @@
 title: "All That Jazz (Themeless)"
 filename: allthatjazz
 difficulty: hard
-date: 2021-02-18
+date: 2021-02-19
 ---
 
 It's been a hot sec, but I've got a new themeless crossword for you! Here's what I've been up to:
