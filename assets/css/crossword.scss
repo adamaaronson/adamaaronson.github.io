@@ -22,32 +22,10 @@
     margin: 0 auto;
 }
 
-// .side-by-side-wrapper {
-//     display: flex;
-//     justify-content: space-between;
-//     width: 100%;
-// }
+.crossword-donate-button {
+    text-align: center;
+}
 
-// .side-by-side {
-//     position: relative;
-//     display: inline-block;
-//     width: 48%;
-//     padding-bottom: 36%;
-// }
-
-// .side-by-side > * {
-//     position: absolute;
-//     // margin-right: 15px;
-// }
-
-// @include media-query($on-palm) {
-//     .side-by-side-wrapper {
-//         flex-flow: column wrap;
-    
-//     }
-
-//     .side-by-side {
-//         width: 100%;
-//         padding-bottom: 75%;
-//     }
-// }
+.post form {
+    margin-top: $spacing-unit / 2 !important;
+}

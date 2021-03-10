@@ -188,14 +188,14 @@ $hard-color: #d63b05;
 .donate-button {
     display: inline-block;
     border: none !important;
-    box-shadow: inset 0px 0px 5px 0px lighten($medium-color, 0%);
+    // box-shadow: inset 0px 0px 5px 0px lighten($medium-color, 0%);
     cursor: pointer;
     padding: 5px 15px;
     font-size: 1.15em;
     font-family: $base-font-family;
     font-weight: 600;
     color: $brand-color !important;
-    background-color: lighten($medium-color, 35%);
+    background-color: $grey-color-light;
     border-radius: 999px;
     margin-left: $spacing-unit / 6;
     margin-right: $spacing-unit / 6;
@@ -203,7 +203,7 @@ $hard-color: #d63b05;
 
     &:hover {
         transform: scale(1.1);
-        background: lighten($medium-color, 35%) !important;
+        background-color: $grey-color-light !important;
         color: $brand-color !important;
     }
 }
