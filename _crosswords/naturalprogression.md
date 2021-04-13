@@ -3,6 +3,7 @@ title: "Natural Progression"
 filename: naturalprogression
 difficulty: tricky
 author: Adam Aaronson and Sid Sivakumar
+collab: Sid Sivakumar
 date: 2020-11-25
 ---
 

@@ -30,6 +30,11 @@ layout: page
                     <h4>{{ crossword.title }}</h4>
                 </div>
                 <div class="crossword-info">
+                    {% if crossword.collab %}
+                    <h3 class="crossword-collab">
+                        w/ {{ crossword.collab }}
+                    </h3>
+                    {% endif %}
                     <div class="crossword-date">
                         {{ crossword.date | date: "%-m/%-d/%y" }}
                     </div><div class="crossword-difficulty {{ crossword.difficulty }}">

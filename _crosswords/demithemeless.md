@@ -3,6 +3,7 @@ title: "Demi Themeless"
 filename: demithemeless
 difficulty: hard
 author: Adam Aaronson and Brooke Husic
+collab: Brooke Husic
 date: 2021-04-13
 ---
 
