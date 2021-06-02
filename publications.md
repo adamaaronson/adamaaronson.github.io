@@ -21,6 +21,7 @@ Here are some puzzles I've had published in other independent venues online!
 
 August 19, 2020 | Sid's Grids | [Key Change (Themeless)](https://www.sidsgrids.com/post/puzzle-43-key-change-themeless-by-adam-aaronson)
 March 9, 2021 | 7xwords | [March 9 (7x7)](https://www.7xwords.com/daily/03/03-09.html)
+May 25, 2021 | 7xwords | [May 25 (7x7)](https://www.7xwords.com/daily/05/05-25.html)
 
 #### More links
 
