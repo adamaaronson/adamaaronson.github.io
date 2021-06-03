@@ -22,12 +22,18 @@ layout: page
         {% for crossword in sorted_crosswords %}
             {% assign week_ago_date = 'now' | date: '%s' | minus: 604800 %}
             {% assign crossword_date = crossword.date | date: '%s' | plus: 0 %}
+            {% assign crossword_num = site.crosswords.size | minus: forloop.index0 %}
             <div class="crossword-box {% if week_ago_date < crossword_date %}new-crossword-box{% endif %}">
                 <a class="crossword-link-wrapper" href="{{ crossword.url }}">
                     <span class="crossword-link"></span>
                 </a>
-                <div class="crossword-title">
-                    <h4>{{ crossword.title }}</h4>
+                <div class="crossword-number">
+                    <span>{{ crossword_num }}</span>
+                </div>
+                <div class="crossword-box-header">
+                    <span class="crossword-title">
+                        <h4>{{ crossword.title }}</h4>
+                    </span>
                 </div>
                 <div class="crossword-info">
                     {% if crossword.collab %}

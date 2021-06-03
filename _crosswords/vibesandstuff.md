@@ -1,5 +1,5 @@
 ---
-title: "Vibes and Stuff (Themeless)"
+title: "Vibes and Stuff (Themeless #7)"
 filename: vibesandstuff
 difficulty: hard
 date: 2020-12-08

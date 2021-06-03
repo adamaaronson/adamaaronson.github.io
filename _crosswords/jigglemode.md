@@ -1,5 +1,5 @@
 ---
-title: "Jiggle Mode (Themeless)"
+title: "Jiggle Mode (Themeless #6)"
 filename: jigglemode
 difficulty: hard
 date: 2020-10-28

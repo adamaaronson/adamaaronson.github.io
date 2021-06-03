@@ -1,5 +1,5 @@
 ---
-title: "Bust a Move (Themeless)"
+title: "Bust a Move (Themeless #10)"
 filename: bustamove
 difficulty: hard
 date: 2021-03-08

@@ -1,5 +1,5 @@
 ---
-title: "It Gets Funkier (Themeless)"
+title: "It Gets Funkier (Themeless #5)"
 filename: itgetsfunkier
 difficulty: hard
 date: 2020-09-11

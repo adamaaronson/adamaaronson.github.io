@@ -1,5 +1,5 @@
 ---
-title: "Pilgrim's Progress (Themeless)"
+title: "Pilgrim's Progress (Themeless #2)"
 filename: pilgrimsprogress
 difficulty: hard
 date: 2020-06-09

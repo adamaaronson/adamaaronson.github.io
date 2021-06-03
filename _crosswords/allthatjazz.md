@@ -1,5 +1,5 @@
 ---
-title: "All That Jazz (Themeless)"
+title: "All That Jazz (Themeless #9)"
 filename: allthatjazz
 difficulty: hard
 date: 2021-02-19

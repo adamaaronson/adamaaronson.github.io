@@ -68,6 +68,7 @@ $hard-color: #d63b05;
     width: 100%;
     top: 0;
     left: 0;
+    z-index: 2;
 
     &:hover {
         background: none !important;
@@ -105,12 +106,31 @@ $hard-color: #d63b05;
     color: $hard-color;
 }
 
+.crossword-number {
+    position: absolute;
+    font-weight: bold;
+    color: $light-color;
+    background-color: $brand-color;
+    top: 0;
+    left: 0;
+    font-size: 0.8em;
+    line-height: 0.8em;
+    width: 1.8em;
+    height: 1.8em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transform: translate(-40%, -40%);
+    border-radius: 9999px;
+    z-index: 1;
+}
+
 .crossword-title {
     margin-bottom: 0;
     flex: 0;
 
     h4 {
-        font-size: 1.2em !important;
+        font-size: 1.1em !important;
         line-height: 1.2em !important;
         margin: 0;
     }

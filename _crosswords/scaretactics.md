@@ -1,5 +1,5 @@
 ---
-title: "Scare Tactics (Themeless)"
+title: "Scare Tactics (Themeless #4)"
 filename: scaretactics
 difficulty: hard
 date: 2020-07-25

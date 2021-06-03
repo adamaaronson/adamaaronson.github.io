@@ -1,5 +1,5 @@
 ---
-title: "Cold as Ice (Themeless)"
+title: "Cold as Ice (Themeless #8)"
 filename: coldasice
 difficulty: hard
 date: 2020-12-16
