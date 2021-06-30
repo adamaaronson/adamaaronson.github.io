@@ -7,6 +7,7 @@ permalink: /publications/
 
 I've been lucky enough to have some of my crossword puzzles published in real live newspapers! Here's a list of said puzzles, along with links to where you can solve them. (* = subscription required)
 
+Wednesday, Jun. 30, 2021 | _The New York Times_ | [Untitled (Themed)](https://www.nytimes.com/crosswords/game/daily/2021/06/30)*
 Saturday, May 29, 2021 | _The New York Times_ | [Untitled (Themeless)](https://www.nytimes.com/crosswords/game/daily/2021/05/29)*
 Tuesday, Feb. 23, 2021 | _The Wall Street Journal_ | [Two Thumbs Down](https://www.wsj.com/articles/two-thumbs-down-tuesday-crossword-february-23-11614006930)
 Sunday, Dec. 20, 2020 | _The Atlantic_ | [Untitled (Themed)](https://www.theatlantic.com/free-daily-crossword-puzzle/?id=atlantic_20201220&set=atlantic&puzzleType=crossword)
