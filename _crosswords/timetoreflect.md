@@ -9,7 +9,7 @@ I've got another themed crossword for ya today! The topic of this puzzle is some
 
 This grid just so happens to somehow be my first foray into left–right symmetry, as well as my first time flouting that pesky "grids must be fully connected" convention. But for good reason! Can you, almighty solver, figure out what that reason is?
 
-Big thanks to my Canadian counterpart [Adam Nicolle](https://luckyxwords.blogspot.com) for test-solving this puzzle! Hope you all enjoy it, and please feast your ears on this aptly-titled banger:<br/><br/>
+Big thanks to my Canadian counterpart [Ada Nicolle](https://luckyxwords.blogspot.com) for test-solving this puzzle! Hope you all enjoy it, and please feast your ears on this aptly-titled banger:<br/><br/>
 
 <iframe width="100%" height="200" src="https://www.youtube.com/embed/2ubIhBZG9NA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 
