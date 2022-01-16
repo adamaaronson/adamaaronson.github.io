@@ -7,6 +7,7 @@ permalink: /publications/
 
 I've been lucky enough to have some of my crossword puzzles published in real live newspapers! Here's a list of said puzzles, along with links to where you can solve them. (* = subscription required)
 
+Wednesday, Jan. 12, 2022 | _The New York Times_ | [Untitled (Themed)](https://www.nytimes.com/crosswords/game/daily/2022/01/12)*
 Monday, Dec. 27, 2021 | _The New York Times_ | [Untitled (Themed)](https://www.nytimes.com/crosswords/game/daily/2021/12/27)*
 Saturday, Nov. 13, 2021 | _The New York Times_ | [Untitled (Themeless)](https://www.nytimes.com/crosswords/game/daily/2021/11/13)*
 Tuesday, Sep. 28, 2021 | _The Wall Street Journal_ | [Appraise Worthy](https://www.wsj.com/articles/appraise-worthy-tuesday-crossword-september-28-11632706727)
