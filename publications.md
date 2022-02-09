@@ -7,6 +7,7 @@ permalink: /publications/
 
 I've been lucky enough to have some of my crossword puzzles published in real live newspapers! Here's a list of said puzzles, along with links to where you can solve them. (* = subscription required)
 
+Tuesday, Feb. 8, 2022 | _The New York Times_ | [Untitled (Themed w/ Joshi & Janes)](https://www.nytimes.com/crosswords/game/daily/2022/02/08)*
 Wednesday, Jan. 12, 2022 | _The New York Times_ | [Untitled (Themed)](https://www.nytimes.com/crosswords/game/daily/2022/01/12)*
 Monday, Dec. 27, 2021 | _The New York Times_ | [Untitled (Themed)](https://www.nytimes.com/crosswords/game/daily/2021/12/27)*
 Saturday, Nov. 13, 2021 | _The New York Times_ | [Untitled (Themeless)](https://www.nytimes.com/crosswords/game/daily/2021/11/13)*
@@ -34,8 +35,10 @@ August 19, 2020 | Sid's Grids | [Key Change (Themeless)](https://www.sidsgrids.c
 
 #### More links
 
-[IL Teen Creates NYT Crosswords](https://will.illinois.edu/21stshow/story/il-teen-creates-nyt-crosswords) (Illinois Public Media's _The 21st Show_, Nov. 12, 2020)
+- [They're clued in: UI trio's puzzle published in New York Times](https://www.news-gazette.com/news/local/university-illinois/theyre-clued-in-ui-trios-puzzle-published-in-new-york-times/article_401e370b-d7c1-5fd3-b3ea-201615a2a4a9.html) (_The News-Gazette_, Feb. 9, 2022)
 
-[The puzzle maker](https://las.illinois.edu/news/2020-04-13/puzzle-maker) (_Illinois LAS News_, Apr. 13, 2020)
+- [IL Teen Creates NYT Crosswords](https://will.illinois.edu/21stshow/story/il-teen-creates-nyt-crosswords) (Illinois Public Media's _The 21st Show_, Nov. 12, 2020)
 
-[Illinois student's puzzle to appear in The New York Times](https://news.illinois.edu/view/6367/805278) (_Illinois News Bureau_, Jan. 2, 2020)
+- [The puzzle maker](https://las.illinois.edu/news/2020-04-13/puzzle-maker) (_Illinois LAS News_, Apr. 13, 2020)
+
+- [Illinois student's puzzle to appear in The New York Times](https://news.illinois.edu/view/6367/805278) (_Illinois News Bureau_, Jan. 2, 2020)
