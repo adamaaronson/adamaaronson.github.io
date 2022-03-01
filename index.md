@@ -11,7 +11,7 @@ position: 1
 
 I'm Adam Aaronson, and I like making things, especially software, music, and puzzles.
 
-Born and raised in Chicagoland, I'm a Computer Science major and Linguistics minor at the University of Illinois at Urbana–Champaign. 
+Born and raised in Chicagoland, I'm a Computer Science major and Linguistics minor at the University of Illinois Urbana–Champaign. 
 
 I also play trombone and electric bass, and right now I'm probably listening to jazz, funk, podcasts, or R&B, and drinking coffee, tea, or good old-fashioned water.
 
