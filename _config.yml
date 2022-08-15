@@ -16,7 +16,7 @@ collections:
   projects:
   crosswords:
     output: true
-    permalink: /:collection/:title
+    permalink: /:collection/:title/
 
 defaults:
   - scope:
