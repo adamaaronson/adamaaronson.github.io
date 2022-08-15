@@ -29,6 +29,7 @@ Saturday, Jan. 4, 2020 | _The New York Times_ | [Untitled (Themeless)](https://w
 
 Here are some puzzles I've had published in other independent venues online!
 
+Jul. 29, 2022 | AVCX+ | ["For Starters..." (Themeless w/ Chris Adams)](https://avxwords.com/puzzles/1138/)*
 May 20, 2022 | AVCX+ | [Having a Blast (Themeless)](https://avxwords.com/puzzles/1086/)*
 Dec. 29, 2021 | 7xwords | [December 29 (7x7)](https://www.7xwords.com/daily/12/12-29.html)
 Sep. 15, 2021 | 7xwords | [September 15 (7x7)](https://www.7xwords.com/daily/09/09-15.html)
