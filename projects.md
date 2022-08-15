@@ -1,6 +1,6 @@
 ---
 layout: projects
 title: Projects
-permalink: /projects
+permalink: /projects/
 position: 2
 ---
