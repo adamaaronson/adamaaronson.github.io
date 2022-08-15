@@ -4,25 +4,8 @@ email: adamaaronson@gmail.com
 description: >-
   I'm Adam Aaronson, and I like making things, especially software, music, and crossword puzzles.
 
-
 twitter_username: aaaronson
 github_username: adamaaronson
-# rss: rss
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-# instagram_username: jekyll
-# linkedin_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
-
-# Mastodon instances
-# mastodon:
-# - username: jekyll
-#   instance: example.com
-# - username: jekyll2
-#   instance: example.com
 
 header_pages:
   - index.md
@@ -33,7 +16,7 @@ collections:
   projects:
   crosswords:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:collection/:title
 
 defaults:
   - scope:
@@ -63,17 +46,4 @@ plugins:
   - jekyll-sitemap
 
 # Sitemap generator
-
 url: "https://aaronson.org"
-
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

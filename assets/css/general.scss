@@ -17,6 +17,7 @@
 .page-content a, .back-to a {
     font-weight: 600;
     text-decoration: none !important;
+    outline-offset: 2px !important;
     border-bottom: 2px solid $brand-color;
 
     &, &:visited {

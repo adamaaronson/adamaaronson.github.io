@@ -2,7 +2,7 @@
 layout: page
 back-to: Crosswords
 title: Publications
-permalink: /publications/
+permalink: /publications
 ---
 
 I've been lucky enough to have some of my crossword puzzles published in real live newspapers! Here's a list of said puzzles, along with links to where you can solve them. (* = subscription required)
