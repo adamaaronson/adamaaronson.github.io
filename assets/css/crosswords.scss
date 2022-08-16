@@ -226,6 +226,8 @@ $hard-color: #d63b05;
     margin-right: $spacing-unit / 6;
     transition: transform 0.3s;
 
+    background-image: none !important;
+
     &:hover {
         transform: scale(1.1);
         background-color: $grey-color-light !important;
@@ -318,6 +320,7 @@ $hard-color: #d63b05;
 
 .rss-link {
     border: none !important;
+    background-image: none !important;
 
     .svg-icon {
         display: inline-block;
