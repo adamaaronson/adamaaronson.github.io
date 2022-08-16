@@ -39,7 +39,11 @@ window.onload = function() {
         }
     }
 
-    header = document.getElementById("site-header");
-    header.style.background = "url(" + canv.toDataURL() + ")";
-    header.style.backgroundSize = "auto " + header.offsetHeight + "px";
+    const header = document.getElementById("site-header");
+    
+    canv.toBlob(blob => {
+        var imageUrl = URL.createObjectURL(blob);
+        header.style.background = "url(" + imageUrl + ")";
+        header.style.backgroundSize = "auto " + header.offsetHeight + "px";
+    });
 }
