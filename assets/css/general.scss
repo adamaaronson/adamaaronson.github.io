@@ -17,8 +17,12 @@
 .page-content a, .back-to a {
     font-weight: 600;
     text-decoration: none !important;
-    outline-offset: 2px !important;
-    border-bottom: 2px solid $brand-color;
+    // border-bottom: 2px solid $brand-color;
+
+    background-image: linear-gradient($brand-color 0%, $brand-color 100%);
+    background-position: 0 1.15em;
+    background-repeat: repeat-x;
+    background-size: 6px 2px;
 
     &, &:visited {
         color: $brand-color;
@@ -26,7 +30,8 @@
 
     &:hover {
         color: $light-color;
-        background-color: $brand-color;
+        background-position: 0 0;
+        background-size: 6px calc(1.15em + 2px);
         text-decoration: none !important;
     }
 }
@@ -59,6 +64,6 @@
 
     p {
         margin-top: $spacing-unit / 4 !important;
-        margin-bottom: $spacing-unit / 3 !important;
+        margin-bottom: $spacing-unit / 4 !important;
     }
 }
