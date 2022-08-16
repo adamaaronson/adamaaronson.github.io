@@ -11,8 +11,11 @@ header_pages:
   - index.md
   - projects.md
   - crosswords.md
+  - blog.md
 
 collections:
+  posts:
+    permalink: /:year/:month/:day/:title
   projects:
   crosswords:
     output: true
@@ -25,6 +28,13 @@ defaults:
     values:
       layout: "crossword"
       back-to: Crosswords
+      author: Adam Aaronson
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "blogpost"
+      back-to: Blog
       author: Adam Aaronson
 
 feed:
