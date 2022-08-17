@@ -42,12 +42,13 @@
 
 .blog-post-date {
     color: $brand-color;
+    font-weight: 600;
 }
 
 .blog-post-tag {
     text-transform: uppercase;
     display: inline-block;
-    background: #CECECE;
+    background: $background-color;
     border-radius: 9999px;
     padding: 2px 10px 0px 10px;
     color: $brand-color;
@@ -116,4 +117,13 @@
     display: flex;
     flex-flow: row wrap;
     justify-content: center;
+    align-items: center;
+    gap: $spacing-unit / 4;
+    color: $brand-color;
+    font-weight: 600;
+    font-size: 1em;
+
+    .donate-button {
+        font-size: 1em;
+    }
 }
