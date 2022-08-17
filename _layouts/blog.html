@@ -6,15 +6,41 @@ layout: page
 
 <div class="blog">
     {% for post in site.posts %}
-    <div class="blog-post">
-        <p class="blog-post-date">{{ post.date | date: site.minima.date_format }}</p>
-        <h2 class="blog-post-title">
-            <a href="{{ post.url }}">{{ post.title }}</a>
-        </h2>
-
-        <p class="blog-post-excerpt">
-            {{ post.excerpt }}
-        </p>
+    <div class="blog-post-box">
+        <div class="blog-post-box-header">
+            <div class="blog-post-subtitle">
+                <span class="blog-post-date">
+                    {{ post.date | date: site.minima.date_format }}
+                    <!-- {% if forloop.index0 == 0 %}
+                        <span class="blog-post-tag-new">
+                            new!
+                        </span>
+                    {% endif %} -->
+                </span>
+                <div class="blog-post-tags">
+                    {% for tag in post.tags %}
+                        <span class="blog-post-tag">
+                            {{ tag }}
+                        </span>
+                    {% endfor %}
+                </div>
+            </div>
+            
+            <h2 class="blog-post-title">{{ post.title }}</h2>
+        </div>
+        <div class="blog-post-description">
+            <p class="blog-post-excerpt">
+                {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+            </p>
+        </div>
+        <a class="blog-post-link-wrapper" href="{{ post.url }}">
+            <span class="blog-post-link"></span>
+        </a>
     </div>
     {% endfor %}
+    <div class="blog-donate-button-wrapper">
+        <a class="donate-button" id="donate-button" href="https://www.buymeacoffee.com/aaronson" rel="noreferrer noopener" target="_blank">
+            Buy me a coffee!
+        </a>
+    </div>
 </div>

@@ -1,0 +1,119 @@
+---
+
+---
+
+@import "minima";
+
+.blog-post-box {
+    background-color: $grey-color-light;
+    border-radius: $big-border-radius;
+    display: flex;
+    flex-flow: column wrap;
+    // align-items: center;
+    margin-bottom: $spacing-unit !important;
+    position: relative;
+    transition: transform 0.3s;
+
+    &:hover {
+        transform: scale(1.03);
+    }
+}
+
+.blog-post-box-header {
+    padding: $spacing-unit / 2 + 5px;
+}
+
+.blog-post-title {
+    margin-top: 0.2em;
+    margin-bottom: 0;
+    line-height: 1.1em;
+}
+
+.blog-post-subtitle {
+    text-transform: uppercase;
+    font-size: small;
+    font-weight: bold;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    column-gap: 4px;
+    row-gap: 4px;
+}
+
+.blog-post-date {
+    color: $brand-color;
+}
+
+.blog-post-tag {
+    text-transform: uppercase;
+    display: inline-block;
+    background: #CECECE;
+    border-radius: 9999px;
+    padding: 2px 10px 0px 10px;
+    color: $brand-color;
+}
+
+.blog-post-tags {
+    margin-top: -2px;
+    display: flex;
+    flex-flow: row wrap;
+    gap: $spacing-unit / 4;
+}
+
+.blog-post-tag-new {
+    padding-left: $spacing-unit / 4;
+    color: $hard-color;
+}
+
+.blog-post-description {
+    padding: $spacing-unit / 2;
+    background-color: white;
+    border: 5px solid $grey-color-light;
+    border-top: none;
+    border-radius: 0 0 $big-border-radius $big-border-radius;
+
+    p {
+        padding: 0;
+        margin: 0;
+    }
+}
+
+.blog-post-excerpt {
+    display: inline-block !important;
+
+    &:after {
+        padding-left: 3px;
+        display: inline-block !important;
+        font-weight: bold;
+        color: $brand-color;
+        content: "Read more..."
+    }
+}
+
+.blog-post-link-wrapper {
+    border: none !important;
+    background: none !important;
+}
+
+.blog-post-link {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+
+    &:hover {
+        background: none !important;
+        color: currentColor !important;
+    }
+
+    &:visited {
+        color: currentColor !important;
+    }
+}
+
+.blog-donate-button-wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
