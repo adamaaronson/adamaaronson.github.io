@@ -16,7 +16,7 @@ header_pages:
 
 collections:
   posts:
-    permalink: /:year/:month/:day/:title
+    permalink: /blog/:title
   projects:
   crosswords:
     output: true

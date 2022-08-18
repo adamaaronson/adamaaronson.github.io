@@ -4,3 +4,18 @@
 
 @import "minima";
 
+.blog-post {
+    & .blog-post-date {
+        text-transform: uppercase;
+    }
+
+    & .blog-post-title {
+        margin-bottom: $spacing-unit / 2;
+    }
+
+    & .blog-post-tag {
+        font-size: small;
+        font-weight: 700;
+        background: $grey-color-light;
+    }
+}

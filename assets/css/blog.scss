@@ -48,7 +48,7 @@
 .blog-post-tag {
     text-transform: uppercase;
     display: inline-block;
-    background: $background-color;
+    background: darken($grey-color-light, 6%);
     border-radius: 9999px;
     padding: 2px 10px 0px 10px;
     color: $brand-color;
