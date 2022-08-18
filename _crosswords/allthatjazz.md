@@ -13,6 +13,6 @@ It's been a hot sec, but I've got a new themeless crossword for you! Here's what
 
 Now what are you waiting for? Give 'er a solve! And listen to this banger, which, fun fact, was originally written for the University of Illinois Jazz Trombone Ensemble:<br/>
 
-<iframe width="100%" height="200px" src="https://www.youtube.com/embed/GFqi6nxEY60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
+<iframe width="100%" height="200px" src="https://www.youtube.com/embed/iQxPGEF2RkY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br/>
 
 <iframe height="700" width="100%" allowfullscreen="true" style="border:none;width: 100% !important;position: static;display: block !important;margin: 0 !important;"  name="80a395d458cc73db445abfa4d939b092b4a474d001c5431bf80bbf61485a14ea" src="https://amuselabs.com/pmm/crossword?id=2ca7267f&set=80a395d458cc73db445abfa4d939b092b4a474d001c5431bf80bbf61485a14ea&embed=1&maxCols=1"></iframe>

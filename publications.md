@@ -34,8 +34,8 @@ May 20, 2022 | AVCX+ | [Having a Blast (Themeless)](https://avxwords.com/puzzles
 Dec. 29, 2021 | 7xwords | [December 29 (7x7)](https://www.7xwords.com/daily/12/12-29.html)
 Sep. 15, 2021 | 7xwords | [September 15 (7x7)](https://www.7xwords.com/daily/09/09-15.html)
 May 25, 2021 | 7xwords | [May 25 (7x7)](https://www.7xwords.com/daily/05/05-25.html)
-March 9, 2021 | 7xwords | [March 9 (7x7)](https://www.7xwords.com/daily/03/03-09.html)
-August 19, 2020 | Sid's Grids | [Key Change (Themeless)](https://www.sidsgrids.com/post/puzzle-43-key-change-themeless-by-adam-aaronson)
+Mar. 9, 2021 | 7xwords | [March 9 (7x7)](https://www.7xwords.com/daily/03/03-09.html)
+Aug. 19, 2020 | Sid's Grids | [Key Change (Themeless)](https://www.sidsgrids.com/post/puzzle-43-key-change-themeless-by-adam-aaronson)
 
 #### More links
 
