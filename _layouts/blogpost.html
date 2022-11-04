@@ -20,6 +20,26 @@ layout: default
     </div>
     <div class="blog-post-body">
         {{ content }}
+        <div class="blog-post-byline">
+            – Adam
+        </div>
+    </div>
+
+    <script src="{{ "/assets/js/share-scripts.js" | relative_url }}" type="text/javascript"></script>
+    
+    <div class="blog-donate-button-wrapper">
+        <span class="enjoying">
+            Enjoyed the post?
+        </span>
+        
+        <span class="share-this-post donate-button" onclick="shareToTwitter('{{ site.url }}{{ page.url }}');">
+            Share <svg class="svg-icon share-this-post-icon" viewBox="0 0 16 16">
+                <use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use>
+            </svg>
+        </span>
+        <a class="donate-button" id="donate-button" href="https://www.buymeacoffee.com/aaronson" rel="noreferrer noopener" target="_blank">
+            Buy me a coffee!
+        </a>
     </div>
 </div>
 

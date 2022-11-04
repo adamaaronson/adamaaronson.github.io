@@ -6,7 +6,7 @@
 
 .blog-post {
     & .blog-post-date {
-        text-transform: uppercase;
+        // text-transform: uppercase;
     }
 
     & .blog-post-title {
@@ -17,5 +17,33 @@
         font-size: small;
         font-weight: 700;
         background: $grey-color-light;
+    }
+
+    .blog-post-body {
+        margin-bottom: $spacing-unit;
+    }
+
+    sup {
+        vertical-align: top;
+        font-size: 0.7em;
+    }
+
+    .blog-post-byline {
+        color: $brand-color;
+        font-size: 1.8em;
+        text-align: right;
+        font-weight: 700;
+    }
+
+    .share-this-post {
+        display: flex;
+        flex-direction: row wrap;
+        align-items: center;
+        gap: 0.5em;
+    }
+
+    .share-this-post-icon {
+        fill: $brand-color;
+        padding-right: 0;
     }
 }
