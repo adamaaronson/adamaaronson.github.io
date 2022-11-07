@@ -45,10 +45,11 @@
   {%- if page.collection != 'posts' -%}
     <meta name="twitter:image" content="https://aaronson.org/assets/images/twitter-image.jpg" />
     <meta name="twitter:card" content="summary" />
+  {%- else -%}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@aaaronson" />
+    <meta name="twitter:title" content="{{ page.title }} | Adam Aaronson" />
   {%- endif -%}
-
-  <meta name="twitter:site" content="@aaaronson" />
-  <meta name="twitter:title" content="{{ page.title }} | Adam Aaronson" />
   
   <!-- End social media metadata -->
 
