@@ -1,6 +1,6 @@
 ---
 title: "Twenty Questions"
-image: "/assets/thequestions.jpg"
+image: "/assets/images/thequestions.jpg"
 ---
 
 Let's play a game. I'm thinking of a number from 1 to 100. You guess, and I tell you whether my number is higher or lower.
