@@ -38,6 +38,8 @@
     <meta name="og:title" content="Crossword: {{ page.title }} | Adam Aaronson" />
   {%- elsif page.collection != 'posts' -%}
     <meta name="og:image" content="https://aaronson.org/assets/images/social-image.jpg" />
+  {%- else -%}
+    <meta name="og:image" content="{{ site.url }}{{ page.image }}"
   {%- endif -%}
 
   <meta name="og:title" content="{{ page.title }} | Adam Aaronson" />
