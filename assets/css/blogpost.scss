@@ -46,4 +46,38 @@
         fill: $brand-color;
         padding-right: 0;
     }
+
+    img {
+        width: max(45%, 300px);
+        margin: auto;
+        display: block;
+    }
+
+    .img-left, .img-right {
+        margin-bottom: 0.5em;
+
+        @media (max-width: 500px) {
+            margin-bottom: 1em;
+            width: 100%;
+            float: none;
+        }
+    }
+
+    .img-left {
+        float: left;
+        margin-right: 1em;
+
+        @media (max-width: 500px) {
+            margin-right: 0;
+        }
+    }
+
+    .img-right {
+        float: right;
+        margin-left: 1em;
+
+        @media (max-width: 500px) {
+            margin-left: 0;
+        }
+    }
 }

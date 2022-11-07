@@ -8,7 +8,9 @@ const messages = [
     "This post is the bomb dot com!",
     "This post reminds me why I love the internet!",
     "This post makes me go squee!",
-    "This post hits the spot!"
+    "This post hits the spot!",
+    "This post hits different!",
+    "This post is the"
 ]
 
 function randomTweetMessage() {
@@ -18,4 +20,16 @@ function randomTweetMessage() {
 
 function shareToTwitter(url) {
     window.open("https://twitter.com/intent/tweet?url=" + randomTweetMessage() + url);
+}
+
+function copyLink(url) {
+    window.navigator.clipboard.writeText(url);
+    
+    const copyLinkButton = document.getElementById('copy-link-text');
+    const { innerText: originalText } = copyLinkButton;
+    copyLinkButton.innerText = 'Copied!';
+
+    setTimeout(() => {
+        copyLinkButton.innerText = originalText;
+    }, 2000);
 }

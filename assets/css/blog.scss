@@ -9,7 +9,6 @@
     border-radius: $big-border-radius;
     display: flex;
     flex-flow: column wrap;
-    // align-items: center;
     margin-bottom: $spacing-unit !important;
     position: relative;
     transition: transform 0.3s;
@@ -40,9 +39,20 @@
     row-gap: 4px;
 }
 
+.blog-post-metadata {
+    display: flex;
+    flex-flow: row wrap;
+    gap: 10px;
+}
+
 .blog-post-date {
     color: $brand-color;
     font-weight: 600;
+}
+
+.blog-post-length {
+    color: $grey-color;
+    font-weight: 500;
 }
 
 .blog-post-tag {
@@ -125,5 +135,12 @@
 
     .donate-button {
         font-size: 1em;
+    }
+
+    @media (max-width: 500px) {
+        display: flex;
+        flex-flow: column wrap;
+        gap: 10px;
+        align-items: center;
     }
 }

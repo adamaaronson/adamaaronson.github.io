@@ -36,15 +36,20 @@
     <meta property="og:image:width" content="500" />
     <meta property="og:image:height" content="500" />
     <meta name="og:title" content="Crossword: {{ page.title }} | Adam Aaronson" />
-  {%- else -%}
+  {%- elsif page.collection != 'posts' -%}
     <meta name="og:image" content="https://aaronson.org/assets/images/social-image.jpg" />
-    <meta name="og:title" content="{{ page.title }} | Adam Aaronson" />
   {%- endif -%}
 
-  <meta name="twitter:image" content="https://aaronson.org/assets/images/twitter-image.jpg" />
-  <meta name="twitter:card" content="summary" />
+  <meta name="og:title" content="{{ page.title }} | Adam Aaronson" />
+
+  {%- if page.collection != 'posts' -%}
+    <meta name="twitter:image" content="https://aaronson.org/assets/images/twitter-image.jpg" />
+    <meta name="twitter:card" content="summary" />
+  {%- endif -%}
+
   <meta name="twitter:site" content="@aaaronson" />
   <meta name="twitter:title" content="{{ page.title }} | Adam Aaronson" />
+  
   <!-- End social media metadata -->
 
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
