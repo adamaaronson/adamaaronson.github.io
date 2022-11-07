@@ -9,8 +9,7 @@ const messages = [
     "This post reminds me why I love the internet!",
     "This post makes me go squee!",
     "This post hits the spot!",
-    "This post hits different!",
-    "This post is the"
+    "This post hits different!"
 ]
 
 function randomTweetMessage() {
