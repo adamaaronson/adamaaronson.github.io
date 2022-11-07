@@ -4,11 +4,6 @@
 
 @import "minima";
 
-$easy-color: #1c8532;
-$medium-color: #eeaa07;
-$tricky-color: #ed8607;
-$hard-color: #d63b05;
-
 .crosswords-wrapper {
     position: relative;
 }
@@ -159,7 +154,7 @@ $hard-color: #d63b05;
     font-weight: 700;
     font-size: small;
     border-radius: 9999px;
-    padding: 2px 8px 1px 8px;
+    padding: 2px 8px 0px 8px;
 }
 
 .easy {

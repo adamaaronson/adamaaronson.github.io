@@ -1,0 +1,63 @@
+---
+layout: page
+---
+
+{{ content }}
+
+<div class="blog">
+    {% for post in site.posts %}
+    <div class="blog-post-box">
+        <div class="blog-post-box-header">
+            <div class="blog-post-subtitle">
+                <div class="blog-post-metadata">
+                    <span class="blog-post-date">
+                        {{ post.date | date: site.minima.date_format }}
+                    </span>
+    
+                    <!-- source: https://carlosbecker.com/posts/jekyll-reading-time-without-plugins/ -->
+                    <span class="blog-post-length" title="Estimated read time">
+                        {% assign words = post.content | number_of_words %}
+                        {% if words < 400 %}
+                            1 min
+                        {% else %}
+                            {{ words | divided_by:200 }} min
+                        {% endif %} read
+                    </span>
+                </div>
+                
+
+                <div class="blog-post-tags">
+                    {% for tag in post.tags %}
+                        <span class="blog-post-tag">
+                            {{ tag }}
+                        </span>
+                    {% endfor %}
+                    <!-- {% if forloop.index0 == 0 %}
+                        <span class="blog-post-tag blog-post-tag-new">
+                            new!
+                        </span>
+                    {% endif %} -->
+                </div>
+            </div>
+            
+            <h2 class="blog-post-title">{{ post.title }}</h2>
+        </div>
+        <div class="blog-post-description">
+            <p class="blog-post-excerpt">
+                {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+            </p>
+        </div>
+        <a class="blog-post-link-wrapper" href="{{ post.url }}">
+            <span class="blog-post-link"></span>
+        </a>
+    </div>
+    {% endfor %}
+    <div class="blog-donate-button-wrapper">
+        <span class="enjoying">
+            Enjoying the blog?
+        </span>
+        <a class="donate-button" id="donate-button" href="https://www.buymeacoffee.com/aaronson" rel="noreferrer noopener" target="_blank">
+            Buy me a coffee!
+        </a>
+    </div>
+</div>
