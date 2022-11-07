@@ -36,10 +36,12 @@
     <meta property="og:image:width" content="500" />
     <meta property="og:image:height" content="500" />
     <meta name="og:title" content="Crossword: {{ page.title }} | Adam Aaronson" />
-  {%- elsif page.collection != 'posts' -%}
-    <meta name="og:image" content="https://aaronson.org/assets/images/social-image.jpg" />
-  {%- else -%}
+  {%- elsif page.collection == 'posts' -%}
     <meta name="og:image" content="{{ site.url }}{{ page.image }}" />
+    <meta property="og:image:width" content="800" />
+    <meta property="og:image:height" content="418" />
+  {%- else -%}
+    <meta name="og:image" content="https://aaronson.org/assets/images/social-image.jpg" />
   {%- endif -%}
 
   <meta name="og:title" content="{{ page.title }} | Adam Aaronson" />
