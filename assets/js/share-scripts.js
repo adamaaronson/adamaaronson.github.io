@@ -1,15 +1,15 @@
 const messages = [
-    "This post rules!",
-    "This post is the bee's knees!",
-    "This post rocks!",
-    "This post sparks joy!",
-    "This post slaps!",
-    "This post goes hard!",
-    "This post is the bomb dot com!",
-    "This post reminds me why I love the internet!",
-    "This post makes me go squee!",
-    "This post hits the spot!",
-    "This post hits different!"
+    "This post by @aaaronson rules!",
+    "This post by @aaaronson is the bee's knees!",
+    "This post by @aaaronson rocks!",
+    "This post by @aaaronson sparks joy!",
+    "This post by @aaaronson slaps!",
+    "This post by @aaaronson goes hard!",
+    "This post by @aaaronson is the bomb dot com!",
+    "This post by @aaaronson reminds me why I love the internet!",
+    "This post by @aaaronson makes me go squee!",
+    "This post by @aaaronson hits the spot!",
+    "This post by @aaaronson hits different!"
 ]
 
 function randomTweetMessage() {
