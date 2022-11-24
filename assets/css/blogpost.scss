@@ -53,6 +53,12 @@
         display: block;
     }
 
+    .img-big {
+        width: 100%;
+        display: inline-block;
+        margin-bottom: 0.5em;
+    }
+
     .img-left, .img-right {
         margin-bottom: 0.5em;
 
@@ -78,6 +84,29 @@
 
         @media (max-width: 500px) {
             margin-left: 0;
+        }
+    }
+
+    .big-word {
+        color: $text-color;
+        font-size: 1.8em;
+        text-align: center;
+        font-weight: bold;
+        letter-spacing: 0.1em;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+
+    .image-caption {
+        color: $grey-color;
+        font-size: 0.9em;
+        text-align: center;
+        font-style: italic;
+        display: inline-block;
+        margin-bottom: 1.5em;
+
+        img {
+            margin-bottom: 1em;
         }
     }
 }
