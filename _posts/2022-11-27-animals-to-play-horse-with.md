@@ -21,7 +21,7 @@ You can't play H-I-P-P-O, for example. If a player gains a P, how do you know if
 
 So we have a rule: no repeated letters allowed. In other words, the animal's name has to be an *isogram*, a word where every letter appears exactly once (alternatively known as a *heterogram*, but *isogram* wins because it's one of those nice self-descriptive wordplay terms—*isogram* is itself an isogram).
 
-So our question boils down to: **what's the longest animal name that's an isogram?**
+That means our question boils down to: **what's the longest animal name that's an isogram?**
 
 I posed this question to my friends while we were waiting for our pub trivia sheet to be graded, and we contemplated it for a solid 15 minutes. The longest one we thought of that night at Murphy's Pub was the 10-letter **ANGLERFISH** (hat tip to my friend Aakash for that). That would make for one long game of H-O-R-S-E!
 
@@ -55,6 +55,8 @@ BREDL'S PYTHON
 {: class="big-word"}
 
 ![Bredl's python](/assets/images/bredlspython.jpg){: class="img-big"}
+*from [A-Z Animals](https://a-z-animals.com/animals/bredls-python/)*
+{: class="image-attribution"}
 
 How fitting! Python in, python out. [Bredl's python](https://en.wikipedia.org/wiki/Morelia_bredli) is a python species native to Australia, named after Australian snake guy Josef Bredl. According to A-Z Animals, "these snakes love to climb trees, and young snakes often hide high in the branches."
 
@@ -74,6 +76,8 @@ JUNCO HYEMALIS
 {: class="big-word"}
 
 ![Junco hyemalis](/assets/images/juncohyemalis.jpg){: class="img-big"}
+*from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dark-eyed_Junco,_Washington_State_02.jpg)*
+{: class="image-attribution"}
 
 *Junco hyemalis* is the scientific name of the [dark-eyed junco](https://en.wikipedia.org/wiki/Dark-eyed_junco), a species of sparrow native to North America. That's right, WordNet has both common names and scientific names. That feels fine to me, since this is all in the name of science.
 
@@ -93,13 +97,13 @@ Thankfully, Lucas pointed me toward a [Mastodon post](https://wikis.world/@hare/
 
 After downloading the data from QLever and cleaning it up in Python, I suddenly had a txt file of *over 1,700,000* animal names, ranging from the absurdly-named beetle *Aaaaba nodosus* to the sponge-dwelling cnidarian *Zyzzyzus warreni*. Take that, A-Z Animals! Like WordNet, Wikidata stores both common names and scientific names, but unlike WordNet, Wikidata has *several orders of magnitude* more animals.
 
-Plugging a list of 1,700,000 animals into Wordlisted was a real moment of truth, both as a search for isograms and as a stress test for Wordlisted. But this was a success on all counts, yielding a result in a league of its own. Presenting, against all odds, the 16-letter isogram:
+Plugging a list of 1,700,000 animals into Wordlisted was a real moment of truth, both as a search for isograms and as a stress test for Wordlisted. But this was a success on all counts, yielding a result in a league of its own. Against all odds, the 16-letter isogram animal:
 
 HABRONYX FULVIPES
 {: class="big-word"}
 
 ![Habronyx](/assets/images/habronyx.jpg){: class="img-big"}
-*This isn't even Habronyx fulvipes, it's a close relative in the Habronyx genus. As far as I could tell, there are no images of Habronyx fulvipes on the internet. I would love to know what this little guy really looks like!*
+*This isn't even Habronyx fulvipes, it's a close relative in the Habronyx genus (from [iNaturalist](https://inaturalist.nz/taxa/250578-Habronyx)). As far as I could tell, there are no images of Habronyx fulvipes on the internet. I would love to know what this little guy really looks like!*
 {: class="image-caption"}
 
 *Habronyx fulvipes* is a species of wasp [first described](https://www.gbif.org/species/1303643) in 1965 by Henry Keith Townes, Setsuya Momoi, and Marjorie Townes. It has no Wikipedia page in English, but it does have one in [Dutch](https://nl.wikipedia.org/wiki/Habronyx_fulvipes) and a few other languages. It also has no A-Z Animals page, which means I can't tell you their fun fact, so instead I'll come up with my own. My fun fact is, "its species name *fulvipes* is Latin for *yellow legs*, which is a reference to the wasp's yellow legs."

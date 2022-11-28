@@ -97,16 +97,33 @@
         margin-bottom: 1em;
     }
 
-    .image-caption {
+    .image-caption, .image-attribution {
         color: $grey-color;
         font-size: 0.9em;
         text-align: center;
         font-style: italic;
         display: inline-block;
         margin-bottom: 1.5em;
+    }
 
-        img {
-            margin-bottom: 1em;
+    .image-caption img {
+        margin-bottom: 1em;
+    }
+
+    .image-caption a, .image-attribution a {
+        font-weight: normal;
+        background-image: linear-gradient($grey-color 0%, $grey-color 100%);
+        color: $grey-color;
+
+        &, &:visited {
+            color: $grey-color;
+        }
+    
+        &:hover {
+            color: $light-color;
+            background-position: 0 0;
+            background-size: 6px calc(1.15em + 2px);
+            text-decoration: none !important;
         }
     }
 }
