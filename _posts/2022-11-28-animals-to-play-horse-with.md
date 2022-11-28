@@ -97,7 +97,7 @@ Thankfully, Lucas pointed me toward a [Mastodon post](https://wikis.world/@hare/
 
 After downloading the data from QLever and cleaning it up in Python, I suddenly had a txt file of *over 1,700,000* animal names, ranging from the absurdly-named beetle *Aaaaba nodosus* to the sponge-dwelling cnidarian *Zyzzyzus warreni*. Take that, A-Z Animals! Like WordNet, Wikidata stores both common names and scientific names, but unlike WordNet, Wikidata has *several orders of magnitude* more animals.
 
-Plugging a list of 1,700,000 animals into Wordlisted was a real moment of truth, both as a search for isograms and as a stress test for Wordlisted. But this was a success on all counts, yielding a result in a league of its own. Against all odds, the 16-letter isogram animal:
+Plugging a list of 1,700,000 animals into Wordlisted was a real moment of truth, both as a search for isograms and as a stress test for Wordlisted. But this was a success on all counts, yielding a result in a league of its own. Against all odds, here's a 16-letter isogram animal:
 
 HABRONYX FULVIPES
 {: class="big-word"}
