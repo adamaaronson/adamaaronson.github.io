@@ -53,6 +53,10 @@
         display: block;
     }
 
+    .img-smaller {
+        width: max(30%, 200px);
+    }
+
     .img-big {
         width: 100%;
         display: inline-block;
@@ -124,6 +128,40 @@
             background-position: 0 0;
             background-size: 6px calc(1.15em + 2px);
             text-decoration: none !important;
+        }
+    }
+
+    .fancy-link {
+        background: $grey-color-light;
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+        align-items: center;
+        gap: $spacing-unit / 2;
+        font-size: 24px;
+        padding: $spacing-unit / 2;
+        border-radius: $big-border-radius;
+        width: fit-content;
+        margin: auto;
+        margin-top: 1em;
+        margin-bottom: 1em;
+
+        transition: transform 0.3s;
+
+        &:hover {
+            transform: scale(1.03);
+            color: $brand-color !important;
+        }
+
+        .fancy-link-image {
+            width: 2em;
+            align-self: flex-start;
+            margin: 0;
+        }
+    
+        .fancy-link-text {
+            font-weight: 700;
+            text-align: center;
         }
     }
 }
