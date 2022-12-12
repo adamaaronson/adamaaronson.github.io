@@ -13,6 +13,6 @@ I'm Adam Aaronson, and I like making things, especially software, music, and puz
 
 Born and raised in Chicagoland, I'm a Computer Science major and Linguistics minor at the University of Illinois Urbana–Champaign. 
 
-I also play trombone and electric bass, and right now I'm probably listening to jazz, funk, podcasts, or hip hop, and drinking coffee, tea, or good old-fashioned water.
+I also play trombone and electric bass, and right now I'm probably [listening](https://aaronson.org/full-moon-albums/) to jazz, funk, podcasts, or hip hop, and drinking coffee, tea, or good old-fashioned water.
 
 While you're here, please check out some of my [projects](/projects) and try to solve a [crossword](/crosswords) or three!
