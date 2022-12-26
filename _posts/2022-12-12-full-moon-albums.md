@@ -59,3 +59,6 @@ Take these as my recommendations, and let me know if you find something in there
 I made the site in TypeScript with React and SCSS, along with some Python preprocessing that uses the Spotify API to fetch the cover art and Spotify link for each album. I used Vite to build the project, which I highly recommend for TypeScript React apps. For the curious, all the source code is [here](https://github.com/adamaaronson/full-moon-albums).
 
 As my album list barrels into quadruple digits, I plan on updating Full Moon Albums regularly. Discovering new music is one of my greatest joys, and I'm hoping Full Moon Albums can share some of that joy with the world!
+
+> #### *Dec 25, 2022 update:*
+> Today I logged album #1000, which was *New York–London–Paris–Munich* by M, one of my dad's favorites that I thought was apropos for the milestone. I gave it a 🌖.
