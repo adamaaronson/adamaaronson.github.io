@@ -10,38 +10,60 @@
 
 .home-wrapper {
     display: flex;
+    gap: $spacing-unit;
+
     @include media-query($on-palm) {
         flex-direction: column;
     }
 }
 
 .home-content {
-    margin-right: $spacing-unit;
     flex-grow: 3;
 
-    @include media-query($on-palm) {
-        margin-right: 0;
-        margin-bottom: $spacing-unit;
+    p:last-child {
+        margin-bottom: 0;
     }
 }
 
 .home-image {
     flex-grow: 2;
     width: 100%;
-    background-image: url("/assets/images/adam.jpg");
-    background-position: center;
-    background-size: cover;
+    overflow: hidden;
+    border-radius: $big-border-radius;
+
+    img {
+        min-width: 100%;
+        min-height: 100%;
+        width: auto;
+        height: auto;
+        object-fit: cover;
+    }
 
     @include media-query($on-palm) {
-        padding-top: min(540px, 120%);
+        flex-direction: column;
+        gap: $spacing-unit * 0.5;
+
+        height: 69vw;
     }
 }
 
 .try-box-wrapper {
     width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: stretch;
+    gap: $spacing-unit;
+    margin-top: $spacing-unit;
+
+    @include media-query($on-palm) {
+        flex-direction: column;
+        justify-content: flex-start;
+    }
 }
 
 .try-box {
+    flex: 1;
+    gap: 1em;
     display: flex;
     box-sizing: border-box;
     background-color: $grey-color-light;
@@ -49,8 +71,6 @@
     padding: $spacing-unit / 2;
     align-items: center;
     justify-content: space-between;
-    width: min(350px, 100%);
-    margin: $spacing-unit auto 0 auto;
     position: relative;
 
     &:hover {
