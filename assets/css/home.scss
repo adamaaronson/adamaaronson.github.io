@@ -58,6 +58,8 @@
     @include media-query($on-palm) {
         flex-direction: column;
         justify-content: flex-start;
+        gap: $spacing-unit * 0.5;
+        margin-top: $spacing-unit * 0.5;
     }
 }
 
