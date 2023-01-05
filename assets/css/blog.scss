@@ -4,22 +4,50 @@
 
 @import "minima";
 
+.blog-post-boxes {
+    display: grid;
+    gap: $spacing-unit;
+    grid-template-columns: 1fr 1fr;
+
+    @media (max-width: 500px) {
+        grid-template-columns: 1fr;
+    }
+}
+
 .blog-post-box {
-    background-color: $grey-color-light;
     border-radius: $big-border-radius;
     display: flex;
     flex-flow: column wrap;
-    margin-bottom: $spacing-unit !important;
     position: relative;
     transition: transform 0.3s;
+    overflow: hidden;
 
     &:hover {
         transform: scale(1.03);
     }
 }
 
-.blog-post-box-header {
+.blog-post-box:first-child {
+    @media (min-width: 500px) {
+        background-color: $grey-color-light;
+        grid-column: span 2;
+    
+        .blog-post-box-header {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+        }
+    
+        .blog-post-image-wrapper {
+            width: 50%;
+        }
+    }
+}
+
+.blog-post-title-wrapper {
     padding: $spacing-unit / 2 + 5px;
+    background-color: $grey-color-light;
 }
 
 .blog-post-title {
@@ -29,17 +57,8 @@
 }
 
 .blog-post-subtitle {
-    // text-transform: uppercase;
     font-size: small;
     font-weight: bold;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-between;
-    column-gap: 4px;
-    row-gap: 4px;
-}
-
-.blog-post-metadata {
     display: flex;
     flex-flow: row wrap;
     gap: 10px;

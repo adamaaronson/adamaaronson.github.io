@@ -1,5 +1,5 @@
 ---
-title: "Animals to Play H-O-R-S-E With"
+title: "Animals to Play H‑O‑R‑S‑E With"
 image: "/assets/images/horse.jpg"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Full Moon Albums"
-image: "/assets/images/full-moon-albums.jpg"
+image: "/assets/images/aja-card.jpg"
 ---
 
 In February 2020, after my first New York Times crossword got published, I used my earnings to treat myself to a pair of AirPods Pro. Little did I know, this would become one of the most valuable purchases I'd ever made.
