@@ -7,6 +7,7 @@ permalink: /publications/
 
 I've been lucky enough to have some of my crossword puzzles published in real live newspapers! Here's a list of said puzzles, along with links to where you can solve them. (* = subscription required)
 
+Saturday, Jan. 7, 2023 | _The New York Times_ | [Untitled (Themeless)](https://www.nytimes.com/crosswords/game/daily/2023/01/07)*
 Saturday, Jun. 25, 2022 | _The New York Times_ | [Untitled (Themeless)](https://www.nytimes.com/crosswords/game/daily/2022/06/25)*
 Saturday, Feb. 26, 2022 | _Universal Crossword_ | [Universal Freestyle 9](/assets/pdf/freestyle9.pdf) ([puz](/assets/puz/freestyle9.puz), [solution](/assets/pdf/freestyle9solution.pdf))
 Tuesday, Feb. 8, 2022 | _The New York Times_ | [Untitled (Themed w/ Joshi & Janes)](https://www.nytimes.com/crosswords/game/daily/2022/02/08)*
