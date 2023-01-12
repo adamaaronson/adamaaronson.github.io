@@ -1,0 +1,34 @@
+<svg width="100%" height="100%" class="header-pattern">
+    {% assign size = 50 %}
+    {% assign rows = 3 %}
+    {% assign cols = 16 %}
+
+    <pattern width="{{ cols | times: size }}" height="{{ rows | times: size }}" viewBox="0 0 {{ cols | times: size }} {{ rows | times: size }}" patternUnits="userSpaceOnUse" id="triangle-pattern">
+        <!-- squares -->
+        {% for col in (0..cols) %}
+            {% for row in (0..rows) %}
+                {% assign x = col | times: size %}
+                {% assign y = row | times: size %}
+                <rect class="header-shape" x="{{ x }}" y="{{ y }}" width="50" height="50" fill="#3a2771"/>
+            {% endfor %}
+        {% endfor %}
+
+        <!-- triangles -->
+        {% for col in (0..cols) %}
+            {% for row in (0..rows) %}
+                {% assign x = col | times: size %}
+                {% assign y = row | times: size %}
+                {% assign xnext = x | plus: size %}
+                {% assign ynext = y | plus: size %}
+                {% assign rowparity = row | modulo: 2 %}
+                {% assign colparity = col | modulo: 2 %}
+                {% if rowparity == colparity %}
+                    <path class="header-shape" d="M {{ x }} {{ y }} {{ xnext }} {{ y }} {{ xnext }} {{ ynext }} Z" fill="#3a2771"/>
+                {% else %}
+                    <path class="header-shape" d="M {{ x }} {{ y }} {{ xnext }} {{ y }} {{ x }} {{ ynext }} Z" fill="#3a2771"/>
+                {% endif %}
+            {% endfor %}
+        {% endfor %}
+    </pattern>
+    <rect x="0" y="0" width="100%" height="100%" fill="url(#triangle-pattern)"></rect>
+</svg>

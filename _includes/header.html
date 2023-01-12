@@ -1,7 +1,9 @@
 <header class="site-header" id="site-header" role="banner">
 
   <div class="wrapper">
-    <canvas id="header-background" height="100" width="100"></canvas>
+    <div id="header-background">
+      {%- include headerpattern.html -%}
+    </div>
     {%- assign sorted_pages = site.pages | sort: "position" -%}
     {%- assign default_paths = sorted_pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
