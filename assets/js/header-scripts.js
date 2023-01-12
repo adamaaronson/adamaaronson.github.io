@@ -6,10 +6,10 @@ function randomPurple() {
     return "hsl(" + h + ", " + s + "%, " + l + "%)";
 }
 
-window.onload = function() {
+document.addEventListener("DOMContentLoaded", () => {
     let triangles = document.getElementsByClassName("header-shape");
 
     for (let triangle of triangles) {
         triangle.setAttribute("fill", randomPurple());
     }
-}
+});
