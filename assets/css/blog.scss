@@ -112,11 +112,11 @@
     display: inline-block !important;
 
     &:after {
-        padding-left: 3px;
+        // padding-left: 3px;
         display: inline-block !important;
         font-weight: bold;
         color: $brand-color;
-        content: "Read more..."
+        content: " Read more..."
     }
 }
 
