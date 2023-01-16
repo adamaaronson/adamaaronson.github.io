@@ -39,6 +39,7 @@
     <meta name="twitter:card" content="summary" />
     <meta name="twitter:image:src" content="https://aaronson.org/assets/images{{ page.id }}.png" />
     <meta name="twitter:title" content="Crossword: {{ page.title }} | Adam Aaronson" />
+    <meta name="twitter:description" content="{{ page.excerpt | strip_html }}" />
   {%- elsif page.collection == 'posts' -%}
     <meta name="og:image" content="{{ site.url }}{{ page.image }}" />
     <meta property="og:image:width" content="800" />
