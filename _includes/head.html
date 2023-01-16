@@ -46,10 +46,10 @@
 
   <meta name="og:title" content="{{ page.title }} | Adam Aaronson" />
 
-  {%- if page.collection != 'posts' -%}
+  {%- if page.collection != 'posts' and page.collection != 'crosswords' -%}
     <meta name="twitter:image" content="https://aaronson.org/assets/images/twitter-image.jpg" />
     <meta name="twitter:card" content="summary" />
-  {%- else -%}
+  {%- elsif page.collection != 'crosswords' -%}
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:site" content="@aaaronson" />
     <meta name="twitter:title" content="{{ page.title }} | Adam Aaronson" />
