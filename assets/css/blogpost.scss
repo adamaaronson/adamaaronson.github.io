@@ -57,18 +57,28 @@
         width: max(30%, 200px);
     }
 
+    .img-medium {
+        width: max(66%, 300px);
+        margin-bottom: 0.5em;
+    }
+
     .img-big {
         width: 100%;
         display: inline-block;
+        margin-top: 0.5em;
         margin-bottom: 0.5em;
     }
 
     .img-left, .img-right {
         margin-bottom: 0.5em;
 
+        &.portrait {
+            width: max(20%, 300px);
+        }
+
         @media (max-width: 500px) {
             margin-bottom: 1em;
-            width: 100%;
+            width: 100% !important;
             float: none;
         }
     }
@@ -88,6 +98,18 @@
 
         @media (max-width: 500px) {
             margin-left: 0;
+        }
+    }
+
+    .two-images {
+        display: flex;
+        flex-flow: row wrap;
+        gap: 1.5em;
+        margin-bottom: 1.5em;
+        margin-top: 1.5em;
+
+        img {
+            margin: none;
         }
     }
 
