@@ -58,8 +58,14 @@
     }
 
     .img-medium {
-        width: max(66%, 300px);
+        width: max(80%, 450px);
         margin-bottom: 0.5em;
+
+        & + em {
+            display: inline-block;
+            width: max(80%, 450px);
+            max-width: 100%;
+        }
     }
 
     .img-big {
@@ -185,5 +191,14 @@
             font-weight: 700;
             text-align: center;
         }
+    }
+
+    .dinkus {
+        text-align: center;
+        color: $brand-color;
+        letter-spacing: 0.2em;
+        font-size: 24px;
+        font-weight: bold;
+        margin: 1em;
     }
 }

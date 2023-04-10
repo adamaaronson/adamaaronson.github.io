@@ -7,7 +7,7 @@ Amid the cornfields of central eastern Illinois lies a public land-grant researc
 
 ![University of Illinois Urbana-Champaign](/assets/images/uiuc.jpg){: class="img-medium"}
 
-If you ask the university's marketing office, [their answer](https://marketing.illinois.edu/messaging/name) is clear: it's called **University of Illinois Urbana-Champaign**. If you came here for a simple answer, there you go, but buckle up, because there's a lot more to the story.
+If you ask the university's marketing office, [their answer](https://marketing.illinois.edu/messaging/name) is perfectly clear: **University of Illinois Urbana-Champaign**. If you came here for a simple answer, there you go, but buckle up, because there's a lot more to the story.
 
 To truly understand the nuances of Illinois's flagship university's name and why people are so confused about it, we have to take a journey through 156 years of geopolitics, branding, and grammar.
 
@@ -34,15 +34,15 @@ In 1896, the Chicago College of Pharmacy joined forces with the university, offi
 
 Sometime around 1905, letters and publications from University of Illinois administrators gradually started including "Urbana" with the university's name, probably to distinguish the university's main campus from its growing medical presence in Chicago. This riled up citizens and business owners of Champaign, who wanted their name on the university that spilled into their city. Champaignians published multiple op-eds in local newspapers arguing that Champaign and Urbana should split the bill. Urbanans rightly pointed out that the bulk of the university was in Urbana, including its administrative offices (and thus the university's mailing address).
 
-![Illini Union](/assets/images/union.jpg){: class="img-big"}
+The Urbana vs. Champaign debate heated up, and in September 1906, the university's Board of Trustees held an actual meeting to resolve it. What came out of this meeting was the name "Urbana-Champaign"—with Urbana first and foremost, like the university itself. Soon after, "Urbana-Champaign" began appearing on official university correspondence, and over the course of the next few decades, it became a commonplace way to refer to the campus. But it wasn't until 1969 that the university officially codified its new name, the **University of Illinois at Urbana-Champaign**.
+
+![Illini Union](/assets/images/union.jpg){: class="img-medium"}
 *The [Illini Union](https://en.wikipedia.org/wiki/Illini_Union), as seen from the Main Quad (in Urbana, not Champaign)*
 {: class="image-attribution"}
 
-The Urbana vs. Champaign debate heated up, and in September 1906, the university's Board of Trustees held an actual meeting to resolve it. What came out of this meeting was the name "Urbana-Champaign"—with Urbana first and foremost, like the university itself. Soon after, "Urbana-Champaign" began appearing on official university correspondence, and over the course of the next few decades, it became a commonplace way to refer to the campus. But it wasn't until 1969 that the university officially codified its new name, the **University of Illinois at Urbana-Champaign**.
+If you solved [my latest crossword](https://aaronson.org/crosswords/seeyouaround/), or if you're from the area, or if you know too much, you'd know that the metro area including the twin cities of Urbana and Champaign is called Champaign–Urbana (or C‑U, or Chambana, or [Shampoo–Banana](https://www.urbandictionary.com/define.php?term=Shampoo+banana)), not Urbana–Champaign. That's because Champaign has pretty much always been more populous than Urbana, and metro areas are conventionally named with the more populous cities first, like Dallas–Fort Worth or New York–Newark–Jersey City.
 
-If you solved [my latest crossword](https://aaronson.org/crosswords/seeyouaround/), or if you're from the area, or if you know too much, you'd know that the metro area including the twin cities of Urbana and Champaign is called Champaign–Urbana (or C-U, or Chambana, or [Shampoo–Banana](https://www.urbandictionary.com/define.php?term=Shampoo+banana)), not Urbana–Champaign. That's because Champaign has pretty much always been more populous than Urbana, so this is in line with the convention to name a metro area with the more populous cities first, like Dallas–Fort Worth or New York–Newark–Jersey City.
-
-So we have the University of Illinois at Urbana-Champaign, in Champaign–Urbana. And you're just gonna have to deal with it.
+So we have a university campus called Urbana-Champaign, in Champaign–Urbana. And you're just gonna have to deal with it.
 
 ## Drawing the line
 
@@ -70,8 +70,8 @@ The University of Illinois System was a well-oiled machine until 2009, when Spri
 
 Then something in 2020 gave Chicago and Urbana-Champaign some time for self-reflection. That fall, they finally followed Springfield's lead, quietly removing the "at" and rebranding to the **University of Illinois Chicago** and the **University of Illinois Urbana-Champaign**. But not everyone got the memo.
 
-![As of Fall 2020, UIUC no longer uses the at in University of Illinois at Urbana-Champaign](/assets/images/styleguide.png){: class="img-big"}
-*excerpt from the [University of Illinois System style guide](https://www.uillinois.edu/cms/One.aspx?portalId=1324&pageId=637777)*
+![As of Fall 2020, UIUC no longer uses the at in University of Illinois at Urbana-Champaign](/assets/images/styleguide.png){: class="img-medium"}
+*Excerpt from the [University of Illinois System style guide](https://www.uillinois.edu/cms/One.aspx?portalId=1324&pageId=637777)*
 {: class="image-attribution"}
 
 It wasn't until spring 2021 that the university's Wikipedia article was moved to remove the "at," as a result of the same [talk page discussion](https://en.wikipedia.org/wiki/Talk:University_of_Illinois_Urbana-Champaign/Archive_2#Requested_move_9_April_2021) that restored the hyphen. Even still, the press isn't on the same page about the name of the University of Illinois Urbana-Champaign. You'll still find the "at" in [*The New York Times*](https://www.nytimes.com/2022/11/01/us/covid-college-students.html), the [*Chicago Tribune*](https://www.chicagotribune.com/news/ct-aud-cb-daywatch-newsletter-feb27-20230227-lfvt7whjmvew3fzfeijexhk5hu-story.html), and even style guide goliath [*AP*](https://apnews.com/article/sxsw-education-business-climate-and-environment-86f6e0aadd29090b347ac2272c595d55). If you even ask a current student at the university, chances are they won't know the "at" was removed, since the university never formally announced it.
@@ -88,7 +88,7 @@ This former name of the university still sticks around as an abbreviation of sor
 
 But people do anyway. In fact, if you search "University of Illinois" on Wikipedia, it [redirects](https://en.wikipedia.org/w/index.php?title=University_of_Illinois&redirect=no) to the Urbana-Champaign campus, not the system.
 
-![University of Illinois Wikipedia redirect](/assets/images/uiuc-wikipedia.png){: class="img-big"}
+![University of Illinois Wikipedia redirect](/assets/images/uiuc-wikipedia.png){: class="img-medium"}
 
 You might be thinking, aren't there three Universities of Illinois? What do the Chicago and Springfield campuses think of this? Well, the Urbana-Champaign campus is the O.G., the flagship, and the system's largest campus to this day, with about 56,000 students compared to UIC's 34,000 and UIS's 4,000. As an [anonymous redditor](https://www.reddit.com/r/UIUC/comments/z4ht2q/comment/ixqym1n/?utm_source=share&utm_medium=web2x&context=3) posted last year, "nobody on this planet refers to UIC or UIS as 'The University of Illinois,'" so if you trust that comment's 50-something upvotes, I don't think anybody's feelings are being hurt. But "University of Illinois" is still kind of a mouthful.
 
@@ -96,7 +96,7 @@ You might be thinking, aren't there three Universities of Illinois? What do the 
 
 This is probably the most common way to refer to the school if you're in Illinois, talking to other people from Illinois. In the Chicago suburbs, where I'm from, it's what everyone calls the school. It's also an officially sanctioned shorthand for campus tour guides to use, and the Office of Public Affairs [permits](https://cam.illinois.edu/policies/apr-29/) it "for in-state and alumni audiences."
 
-![Mammoth](/assets/images/mammoth.jpg){: class="img-big"}
+![Mammoth](/assets/images/mammoth.jpg){: class="img-medium"}
 *The mammoth statue at the university's Natural History Building. I just think he's neat.*
 {: class="image-attribution"}
 
@@ -112,8 +112,8 @@ But the acronym isn't without its downsides. The university doesn't really use i
 
 At the end of the day, kids these days still call it UIUC, and if you say it to someone who has been in school in the past decade, they'll probably know what you're talking about. And it's about time someone puts it in a crossword.
 
-![UIUC on Crossword Tracker](/assets/images/crosswordtracker.jpg){: class="img-big"}
-*Appearances of the entry UIUC in major crossword outlets (or lack thereof), per [Crossword Tracker](https://crosswordtracker.com/search/?answer=uiuc&clue=)*
+![UIUC on Crossword Tracker](/assets/images/crosswordtracker.jpg){: class="img-medium"}
+*Appearances (or lack thereof) of UIUC in major crossword outlets, per [Crossword Tracker](https://crosswordtracker.com/search/?answer=uiuc&clue=)*
 {: class="image-attribution"}
 
 ### Illinois
@@ -122,13 +122,16 @@ The university has leaned into this nickname since 2008, and for good reason. It
 
 The nickname "Illinois" will be especially recognizable to anyone who's ever looked at the Big Ten standings or a March Madness bracket, since ESPN has no time to rattle off the university's full name. It's all over T-shirts and hoodies, it's in every student's email address, and it's plastered at the top of the [university's website](https://illinois.edu).
 
-![illinois.edu](/assets/images/illinoisdotedu.png){: class="img-big"}
+![illinois.edu](/assets/images/illinoisdotedu.png){: class="img-medium"}
 *The [Alma Mater](https://en.wikipedia.org/wiki/Alma_Mater_(Illinois_sculpture)) statue, as pictured on [illinois.edu](https://illinois.edu). Not to be confused with the university's alma mater song "[Hail to the Orange](https://en.wikipedia.org/wiki/Hail_to_the_Orange)," which aptly ends "Victory, Illinois, Varsity."*
 {: class="image-attribution"}
 
 This school has gone through a lot of names in its 156 years, from **Illinois Industrial University** to the **University of Illinois** to the **University of Illinois *at* Urbana-Champaign** to the **University of Illinois Urbana-Champaign**. But today, if someone asks me where I go to school, my answer will be simple, and it's been in the name all along: **Illinois**.
 
 > For more adjacent to the University of Illinois Urbana-Champaign, check out these Wikipedia articles I recently wrote on [Pinto Bean](<https://en.wikipedia.org/wiki/Pinto_Bean_(squirrel)>) and [Unofficial](https://en.wikipedia.org/wiki/Unofficial_Saint_Patrick%27s_Day)!
+
+\*\*\*
+{: class="dinkus"}
 
 ### Sources and further reading
 
