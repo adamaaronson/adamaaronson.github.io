@@ -1,11 +1,11 @@
 ---
 title: "What's the Name of This University?"
-image: "/assets/images/uiuc.jpg"
+image: "/assets/images/uiuc-names.jpg"
 ---
 
 Amid the cornfields of central eastern Illinois lies a public land-grant research university. What's it called? For most universities, this question is simple, but in this case, its answer has perplexed students, alumni, and Wikipedia editors for decades.
 
-![University of Illinois Urbana-Champaign](/assets/images/uiuc.jpg){: class="img-medium"}
+![University of Illinois Urbana-Champaign](/assets/images/uiuc-names.jpg){: class="img-medium"}
 
 If you ask the university's marketing office, [their answer](https://marketing.illinois.edu/messaging/name) is perfectly clear: **University of Illinois Urbana-Champaign**. If you came here for a simple answer, there you go, but buckle up, because there's a lot more to the story.
 
