@@ -7,6 +7,7 @@ permalink: /publications/
 
 I've been lucky enough to have some of my crossword puzzles published in real live newspapers! Here's a list of said puzzles, along with links to where you can solve them. (* = subscription required)
 
+Saturday, Jul. 22, 2023 | _The Wall Street Journal_ | [Gives and Takes](https://www.wsj.com/articles/gives-and-takes-saturday-crossword-july-22-541b32d9)
 Friday, Jul. 21, 2023 | _The New Yorker_ | [Backaches (w/ Billy Bratton)](https://www.newyorker.com/puzzles-and-games-dept/crossword/2023/07/21)
 Saturday, Jan. 7, 2023 | _The New York Times_ | [Untitled (Themeless)](https://www.nytimes.com/crosswords/game/daily/2023/01/07)*
 Saturday, Jun. 25, 2022 | _The New York Times_ | [Untitled (Themeless)](https://www.nytimes.com/crosswords/game/daily/2022/06/25)*
