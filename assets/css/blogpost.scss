@@ -57,18 +57,34 @@
         width: max(30%, 200px);
     }
 
+    .img-medium {
+        width: max(80%, 450px);
+        margin-bottom: 0.5em;
+
+        & + em {
+            display: inline-block;
+            width: max(80%, 450px);
+            max-width: 100%;
+        }
+    }
+
     .img-big {
         width: 100%;
         display: inline-block;
+        margin-top: 0.5em;
         margin-bottom: 0.5em;
     }
 
     .img-left, .img-right {
         margin-bottom: 0.5em;
 
+        &.portrait {
+            width: max(20%, 300px);
+        }
+
         @media (max-width: 500px) {
             margin-bottom: 1em;
-            width: 100%;
+            width: 100% !important;
             float: none;
         }
     }
@@ -88,6 +104,18 @@
 
         @media (max-width: 500px) {
             margin-left: 0;
+        }
+    }
+
+    .two-images {
+        display: flex;
+        flex-flow: row wrap;
+        gap: 1.5em;
+        margin-bottom: 1.5em;
+        margin-top: 1.5em;
+
+        img {
+            margin: none;
         }
     }
 
@@ -163,5 +191,14 @@
             font-weight: 700;
             text-align: center;
         }
+    }
+
+    .dinkus {
+        text-align: center;
+        color: $brand-color;
+        letter-spacing: 0.2em;
+        font-size: 24px;
+        font-weight: bold;
+        margin: 1em;
     }
 }

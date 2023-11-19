@@ -7,7 +7,7 @@ layout: default
     <div class="home-content">
       {{ content }}
     </div>
-    <div class="home-image">
+    <div class="home-image home-image-desktop">
       <img src="/assets/images/adam.jpg" alt="Adam at Canyonlands National Park" />
     </div>
   </div>
@@ -17,7 +17,7 @@ layout: default
       {% assign crossword = site.crosswords | sort: "date" | last %}
       <div class="try-box-label">
         <h5>Try my latest crossword puzzle!</h5>
-        <h4>Crossword: {{ crossword.title }}&nbsp;→</h4>
+        <h4 class="try-box-post-title">{{ crossword.title | replace: " #", "&nbsp;#" }}&nbsp;→</h4>
       </div>
       <a class="crossword-link-wrapper" href="{{ crossword.url }}">
         <span class="crossword-link"></span>
@@ -30,7 +30,7 @@ layout: default
       {% assign post = site.posts | sort: "date" | last %}
       <div class="try-box-label">
         <h5>Read my latest blog post!</h5>
-        <h4>{{ post.title }}&nbsp;→</h4>
+        <h4 class="try-box-post-title">{{ post.title }}&nbsp;→</h4>
       </div>
       <a class="crossword-link-wrapper" href="{{ post.url }}">
         <span class="crossword-link"></span>
