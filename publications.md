@@ -7,6 +7,7 @@ permalink: /publications/
 
 I've been lucky enough to have some of my crossword puzzles published in real live newspapers! Here's a list of said puzzles, along with links to where you can solve them. (* = subscription required)
 
+Friday, Nov. 10, 2023 | _The New Yorker_ | [Coming Up Empty](https://www.newyorker.com/puzzles-and-games-dept/crossword/2023/11/10)
 Friday, Oct. 6, 2023 | _The New Yorker_ | [Metalinguistics](https://www.newyorker.com/puzzles-and-games-dept/crossword/2023/10/06)
 Saturday, Jul. 22, 2023 | _The Wall Street Journal_ | [Gives and Takes](https://www.wsj.com/articles/gives-and-takes-saturday-crossword-july-22-541b32d9)
 Friday, Jul. 21, 2023 | _The New Yorker_ | [Backaches (w/ Billy Bratton)](https://www.newyorker.com/puzzles-and-games-dept/crossword/2023/07/21)
