@@ -1,8 +1,7 @@
 ---
-
 ---
 
-@import "minima";
+@import 'minima';
 
 .blog-post {
     & .blog-post-date {
@@ -75,7 +74,8 @@
         margin-bottom: 0.5em;
     }
 
-    .img-left, .img-right {
+    .img-left,
+    .img-right {
         margin-bottom: 0.5em;
 
         &.portrait {
@@ -129,7 +129,8 @@
         margin-bottom: 1em;
     }
 
-    .image-caption, .image-attribution {
+    .image-caption,
+    .image-attribution {
         color: $grey-color;
         font-size: 0.9em;
         text-align: center;
@@ -142,15 +143,17 @@
         margin-bottom: 1em;
     }
 
-    .image-caption a, .image-attribution a {
+    .image-caption a,
+    .image-attribution a {
         font-weight: normal;
         background-image: linear-gradient($grey-color 0%, $grey-color 100%);
         color: $grey-color;
 
-        &, &:visited {
+        &,
+        &:visited {
             color: $grey-color;
         }
-    
+
         &:hover {
             color: $light-color;
             background-position: 0 0;
@@ -186,7 +189,7 @@
             align-self: flex-start;
             margin: 0;
         }
-    
+
         .fancy-link-text {
             font-weight: 700;
             text-align: center;
@@ -200,5 +203,19 @@
         font-size: 24px;
         font-weight: bold;
         margin: 1em;
+    }
+
+    .reveal {
+        &.unrevealed {
+            cursor: pointer;
+            background: $grey-color-light;
+            font-size: small;
+            padding: 0 0.5em;
+            box-shadow: 0 0 0.3em 0.3em $grey-color-light;
+        }
+    }
+
+    th:has(.answers-header) {
+        width: 75%;
     }
 }
