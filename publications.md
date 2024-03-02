@@ -7,6 +7,7 @@ permalink: /publications/
 
 I've been lucky enough to have some of my crossword puzzles published in real live newspapers! Here's a list of said puzzles, along with links to where you can solve them. (\* = subscription required)
 
+Friday, Mar. 1, 2024 | _The New Yorker_ | [Yes-men](https://www.newyorker.com/puzzles-and-games-dept/crossword/2024/03/01)
 Friday, Jan. 19, 2024 | _The New Yorker_ | [First off](https://www.newyorker.com/puzzles-and-games-dept/crossword/2024/01/19)
 Thursday, Dec. 28, 2023 | _USA Today_ | [Four on the Floor](https://puzzles.usatoday.com/game/d5b851bc-b136-4c69-904f-8eba993102dc)
 Friday, Nov. 10, 2023 | _The New Yorker_ | [Coming up empty](https://www.newyorker.com/puzzles-and-games-dept/crossword/2023/11/10)
