@@ -51,7 +51,9 @@ May 25, 2021 | 7xwords | [May 25 (7x7)](https://www.7xwords.com/daily/05/05-25.h
 Mar. 9, 2021 | 7xwords | [March 9 (7x7)](https://www.7xwords.com/daily/03/03-09.html)
 Aug. 19, 2020 | Sid's Grids | [Key Change (Themeless)](https://www.sidsgrids.com/post/puzzle-43-key-change-themeless-by-adam-aaronson)
 
-#### More links
+#### Miscellaneous press
+
+-   [How Gen Z Made the Crossword Their Own](https://www.nytimes.com/2024/04/13/style/gen-z-crosswords.html?unlocked_article_code=1.kE0.wEmA.LkqRVprqqULb&smid=url-share) (_The New York Times_, Apr. 13, 2024)
 
 -   [They're clued in: UI trio's puzzle published in New York Times](https://www.news-gazette.com/news/local/university-illinois/theyre-clued-in-ui-trios-puzzle-published-in-new-york-times/article_401e370b-d7c1-5fd3-b3ea-201615a2a4a9.html) (_The News-Gazette_, Feb. 9, 2022)
 
