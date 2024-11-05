@@ -9,6 +9,7 @@ I've been lucky enough to have some of my crossword puzzles published in real li
 
 <small>(\* = subscription required)</small>
 
+Saturday, Oct. 26, 2024 | _Los Angeles Times_ | [Untitled (Themeless)](https://www.latimes.com/games/daily-crossword?id=tca241026&set=latimes&puzzleType=crossword)
 Monday, Mar. 11, 2024 | _Defector_ | [Ten-Four, Good Buddy](https://defector.com/the-crossword-march-11-ten-four-good-buddy)\*
 Friday, Mar. 1, 2024 | _The New Yorker_ | [Yes-men](https://www.newyorker.com/puzzles-and-games-dept/crossword/2024/03/01)
 Friday, Jan. 19, 2024 | _The New Yorker_ | [First off](https://www.newyorker.com/puzzles-and-games-dept/crossword/2024/01/19)
@@ -40,7 +41,11 @@ Saturday, Jan. 4, 2020 | _The New York Times_ | [Untitled (Themeless)](https://w
 
 Here are some puzzles I've had published in other independent venues online!
 
-Mar. 14, 2024 | Puzzmo | [Happy Pi Day!](https://www.puzzmo.com/play/crossword/0x6ap82scc)\*
+Oct. 22, 2024 | Puzzmo | [Net Games](https://www.puzzmo.com/puzzle/2024-10-22/crossword)\*
+Aug. 27, 2024 | Puzzmo | [Tones of Voice](https://www.puzzmo.com/puzzle/2024-08-27/crossword)\*
+Jul. 24, 2024 | Puzzmo | [You're Getting Warmer](https://www.puzzmo.com/puzzle/2024-07-24/crossword)\*
+Jun. 06, 2024 | Puzzmo | [Head in the Game](https://www.puzzmo.com/puzzle/2024-06-06/crossword)\*
+Mar. 14, 2024 | Puzzmo | [Happy Pi Day!](https://www.puzzmo.com/puzzle/2024-03-14/crossword)\*
 Dec. 28, 2022 | Club 72 | [Well... (Themeless)](https://club72.wordpress.com/2022/12/28/guest-freestyle-4-adam-aaronson/)
 Nov. 25, 2022 | AVCX+ | [All-Star Lineup (Themeless)](https://avxwords.com/puzzles/1219/)\*
 Jul. 29, 2022 | AVCX+ | ["For Starters..." (Themeless w/ Chris Adams)](https://avxwords.com/puzzles/1138/)\*
