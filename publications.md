@@ -44,6 +44,7 @@ Here are some puzzles I've had published in other independent venues online!
 
 Oct. 22, 2024 | Puzzmo | [Net Games](https://www.puzzmo.com/puzzle/2024-10-22/crossword)\*
 Aug. 27, 2024 | Puzzmo | [Tones of Voice](https://www.puzzmo.com/puzzle/2024-08-27/crossword)\*
+Jul. 26, 2024 | AVCX+ | [You're on the Right Track (Themeless)](https://avxwords.com/puzzles/1636/)\*
 Jul. 24, 2024 | Puzzmo | [You're Getting Warmer](https://www.puzzmo.com/puzzle/2024-07-24/crossword)\*
 Jun. 06, 2024 | Puzzmo | [Head in the Game](https://www.puzzmo.com/puzzle/2024-06-06/crossword)\*
 Mar. 14, 2024 | Puzzmo | [Happy Pi Day!](https://www.puzzmo.com/puzzle/2024-03-14/crossword)\*
