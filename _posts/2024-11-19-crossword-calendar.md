@@ -29,7 +29,7 @@ Eight months later, that idea has become a real thing—a physical object!—tha
 
 It's a folding wall calendar where each month is a crossword to solve, the grid taking the shape of the month's calendar grid, with one letter to write in each day's square. The grid squares are numbered like a regular calendar, with each clue enumerated by the day of the month its answer starts on.
 
-The road from half-waking idea to physical object was a winding one, especially considering this is the first time I've ever tried to create a real product that people can buy. Here's how it went down (and across).
+The road from half-waking idea to physical object was a winding one, especially considering this was the first time I'd ever tried to create a real product that people can buy. Here's how it went down (and across).
 
 ## On the grid
 
