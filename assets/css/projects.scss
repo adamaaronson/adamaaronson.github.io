@@ -1,8 +1,7 @@
 ---
-
 ---
 
-@import "minima";
+@import 'minima';
 
 /**
  * Projects
@@ -64,7 +63,13 @@
     h5 {
         font-weight: normal;
         font-size: 1.2em;
-        margin-bottom: 0;
+        margin-bottom: 0.2em;
+    }
+
+    h6 {
+        color: $grey-color;
+        font-size: 0.9em;
+        font-weight: normal;
     }
 
     @media all and (min-width: $on-palm) {
@@ -113,7 +118,7 @@
             flex: 0;
         }
 
-        .project-image-box { 
+        .project-image-box {
             order: 2;
         }
 
