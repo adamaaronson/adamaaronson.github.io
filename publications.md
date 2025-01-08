@@ -9,6 +9,7 @@ I've been lucky enough to have some of my crossword puzzles published in real li
 
 <small>(\* = subscription required)</small>
 
+Wednesday, Jan. 1, 2025 | _The New Yorker_ | [So much to say](https://www.newyorker.com/puzzles-and-games-dept/crossword/2025/01/01)
 Wednesday, Nov. 6, 2024 | _The New York Times_ | [Untitled (Themed)](https://www.nytimes.com/crosswords/game/daily/2024/11/06)\*
 Saturday, Oct. 26, 2024 | _Los Angeles Times_ | [Untitled (Themeless)](https://www.latimes.com/games/daily-crossword?id=tca241026&set=latimes&puzzleType=crossword)
 Monday, Mar. 11, 2024 | _Defector_ | [Ten-Four, Good Buddy](https://defector.com/the-crossword-march-11-ten-four-good-buddy)\*
