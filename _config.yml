@@ -2,59 +2,60 @@ title: Adam Aaronson
 author: Adam Aaronson
 email: adamaaronson@gmail.com
 description: >-
-  I'm Adam Aaronson, and I like making things, especially software, music, and crossword puzzles.
+    I'm Adam Aaronson, and I like making things, especially software, music, and crossword puzzles.
 
 twitter_username: aaaronson
+bluesky_username: aaronson
 github_username: adamaaronson
-rss: ""
+rss: ''
 
 header_pages:
-  - index.md
-  - projects.md
-  - crosswords.md
-  - blog.md
+    - index.md
+    - projects.md
+    - crosswords.md
+    - blog.md
 
 collections:
-  posts:
-    permalink: /blog/:title
-  projects:
-  crosswords:
-    output: true
-    permalink: /:collection/:title/
+    posts:
+        permalink: /blog/:title
+    projects:
+    crosswords:
+        output: true
+        permalink: /:collection/:title/
 
 defaults:
-  - scope:
-      path: ""
-      type: "crosswords"
-    values:
-      layout: "crossword"
-      back-to: Crosswords
-      author: Adam Aaronson
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "blogpost"
-      back-to: Blog
-      author: Adam Aaronson
+    - scope:
+          path: ''
+          type: 'crosswords'
+      values:
+          layout: 'crossword'
+          back-to: Crosswords
+          author: Adam Aaronson
+    - scope:
+          path: ''
+          type: 'posts'
+      values:
+          layout: 'blogpost'
+          back-to: Blog
+          author: Adam Aaronson
 
 feed:
-  collections:
-    crosswords:
-      path: "/crosswords.xml"
+    collections:
+        crosswords:
+            path: '/crosswords.xml'
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+    date_format: '%b %-d, %Y'
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+    - jekyll-feed
+    - jekyll-seo-tag
+    - jekyll-sitemap
 
 # Sitemap generator
-url: "https://aaronson.org"
+url: 'https://aaronson.org'
