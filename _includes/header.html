@@ -36,7 +36,10 @@
                 <a class="page-link" {% if page.url == my_page.url or page.back-to and page.back-to == my_page.title %}id="active-page"{% endif %} href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
                 {%- endif -%}
               {%- endfor -%}
-              {%- include social.html -%}
+              <ul class="social-media-list">
+                {%- if site.twitter_username -%}<li><a href="https://www.twitter.com/{{ site.twitter_username| cgi_escape | escape }}"><svg class="svg-icon" viewBox="0 0 16 16"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ site.twitter_username| escape }}</span></a></li>{%- endif -%}
+                {%- if site.github_username -%}<li><a href="https://github.com/{{ site.github_username| cgi_escape | escape }}"><svg class="svg-icon" viewBox="0 0 16 16"><use xlink:href="{{ '/assets/minima-social-icons.svg#github' | relative_url }}"></use></svg> <span class="username">{{ site.github_username| escape }}</span></a></li>{%- endif -%}
+              </ul>
             </div>
           </div>
         </nav>
