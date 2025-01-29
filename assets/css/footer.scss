@@ -1,8 +1,7 @@
 ---
-
 ---
 
-@import "minima";
+@import 'minima';
 
 .site-footer {
     background-color: $light-color;
@@ -14,10 +13,16 @@
         background: $brand-color;
         color: $light-color;
     }
-    
+
     ::-moz-selection {
         background: $brand-color;
         color: $light-color;
+    }
+}
+
+.home-link {
+    @media (max-width: 400px) {
+        display: none;
     }
 }
 
@@ -42,7 +47,8 @@
     padding-right: $spacing-unit * 0.3;
     margin-right: $spacing-unit * 0.3;
 
-    a, a:visited {
+    a,
+    a:visited {
         color: $text-color !important;
     }
 }
@@ -53,7 +59,8 @@
     padding-left: $spacing-unit * 0.3;
     margin-left: $spacing-unit * 0.3;
 
-    a, a:visited {
+    a,
+    a:visited {
         color: $text-color !important;
     }
 }
