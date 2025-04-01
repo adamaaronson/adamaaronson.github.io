@@ -5,7 +5,7 @@ layout: page
 {{content}}
 
 <div class="projects">
-    {% assign sorted_projects = site.projects | sort: "position" %}
+    {% assign sorted_projects = site.projects | sort: "position" | reverse %}
     {% for project in sorted_projects %}
         <div class="project-box">
             <div class="project-title">
