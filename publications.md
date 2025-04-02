@@ -9,6 +9,7 @@ I've been lucky enough to have some of my crossword puzzles published in real li
 
 <small>(\* = subscription required)</small>
 
+Tuesday, Apr. 1, 2025 | _The New Yorker_ | [Language barriers](https://www.newyorker.com/puzzles-and-games-dept/crossword/2025/04/01)
 Tuesday, Feb. 4, 2025 | _The New York Times_ | [Untitled (Themed)](https://www.nytimes.com/crosswords/game/daily/2025/02/04)\*
 Wednesday, Jan. 1, 2025 | _The New Yorker_ | [So much to say](https://www.newyorker.com/puzzles-and-games-dept/crossword/2025/01/01)
 Wednesday, Nov. 6, 2024 | _The New York Times_ | [Untitled (Themed)](https://www.nytimes.com/crosswords/game/daily/2024/11/06)\*
