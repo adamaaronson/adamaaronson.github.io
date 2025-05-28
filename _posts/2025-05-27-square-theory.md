@@ -17,7 +17,7 @@ Something about this concept—two sets of synonyms (PUB and BAR, QUIZ and EXAM)
 
 ![Will Nediger: UBEREATS / SUPERFOOD; Assorted-Interests: THROW SHADE / PITCH BLACK; Tyler Hinman, Aged Prodigy: With this topic resurrected, it seems nobody posted what I think is the canonical one: BOOTY CALL and BUTT DIAL; jenna lafleur: ROMAN MARS / CLASSICAL RUINS; gppasco: GRAND CANYON / K-HOLE; robinyu: DAD BOD and FATHER FIGURE; kareila: PERMANENT PRESS / FOREVER STAMP; heywhatsupitsbob: FRIENDLY FAVOR / PLATONIC SOLID](/assets/images/square-discord-posts.png){: class="img-big"}
 
-Intermittently over the next _year_, #etuiposting would be flooded with these pairs of pairs. They became too much even for the shitposting channel, and were ultimately confined to a thread called #double-doubles (a name [Bob Weisz](https://heywhatsupitsbob.com) and I both proposed simultaneously). Today, more than three years after Alex's original prompt, the thread still remains active, a wordplay oasis of over 3,000 posts.
+Intermittently over the next _year_, #etuiposting would be flooded with these pairs of pairs. They became too much even for the shitposting channel, and were ultimately confined to a thread called #double-doubles (a name [Bob Weisz](https://talesfromthecrypticcrosswords.blogspot.com/) and I both proposed simultaneously). Today, more than three years after Alex's original prompt, the thread still remains active, a wordplay oasis of over 3,000 posts.
 
 There's something going on here. Something more than a shitpost or an ephemeral trend. Double doubles have the proverbial juice, and the juice lies in their structure. Each pair of pairs can be modeled as a square, where the corners are words and the sides are relations between those words:
 
