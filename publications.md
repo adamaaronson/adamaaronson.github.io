@@ -9,6 +9,7 @@ I've been lucky enough to have some of my crossword puzzles published in real li
 
 <small>(\* = subscription required)</small>
 
+Tuesday, Jul. 1, 2025 | _The New York Times_ | [Untitled (Themed w/ Michael Garbus)](https://www.nytimes.com/crosswords/game/daily/2025/07/01)\*
 Wednesday, Jun. 25, 2025 | _The New Yorker_ | [Closing the books](https://www.newyorker.com/puzzles-and-games-dept/crossword/2025/06/25)
 Saturday, May 31, 2025 | _The New York Times_ | [Untitled (Themeless w/ Ricky Cruz)](https://www.nytimes.com/crosswords/game/daily/2025/05/31)\*
 Tuesday, Apr. 1, 2025 | _The New Yorker_ | [Language barriers](https://www.newyorker.com/puzzles-and-games-dept/crossword/2025/04/01)
