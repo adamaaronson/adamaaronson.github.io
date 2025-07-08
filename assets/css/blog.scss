@@ -1,8 +1,7 @@
 ---
-
 ---
 
-@import "minima";
+@import 'minima';
 
 .blog-post-boxes {
     display: grid;
@@ -31,14 +30,14 @@
     @media (min-width: 500px) {
         background-color: $grey-color-light;
         grid-column: span 2;
-    
+
         .blog-post-box-header {
             display: flex;
             flex-direction: row;
             justify-content: space-between;
             align-items: center;
         }
-    
+
         .blog-post-image-wrapper {
             width: 50%;
         }
@@ -116,7 +115,7 @@
         display: inline-block !important;
         font-weight: bold;
         color: $brand-color;
-        content: " Read more..."
+        content: ' Read more...';
     }
 }
 
@@ -152,6 +151,10 @@
     font-weight: 600;
     font-size: 1em;
     margin-top: $spacing-unit;
+
+    .sub-button {
+        color: $light-color !important;
+    }
 
     .donate-button {
         font-size: 1em;

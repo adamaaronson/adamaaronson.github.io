@@ -1,8 +1,7 @@
 ---
-
 ---
 
-@import "minima";
+@import 'minima';
 
 .crosswords-wrapper {
     position: relative;
@@ -15,7 +14,7 @@
     left: 10%;
     width: 80%;
     height: 100%;
-    background: url("/assets/images/crosswordheader.png");
+    background: url('/assets/images/crosswordheader.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: top center;
@@ -94,7 +93,7 @@
 }
 
 .crossword-box:first-child::before {
-    content: "\2193  NEW!";
+    content: '\2193  NEW!';
     position: absolute;
     top: -10px - $spacing-unit / 2;
     font-weight: 700;
@@ -179,8 +178,6 @@
     align-self: flex-end;
 }
 
-/* MailChimp embed form */
-
 .subscribe-buttons {
     margin-top: $spacing-unit / 4;
     margin-bottom: $spacing-unit;
@@ -225,8 +222,8 @@
 
     &:hover {
         transform: scale(1.1);
-        background-color: $grey-color-light !important;
-        color: $brand-color !important;
+        background-color: $grey-color-light;
+        color: $brand-color;
     }
 }
 
@@ -247,8 +244,6 @@
     position: relative;
     background: white;
     border-radius: $big-border-radius;
-    padding: $spacing-unit;
-    padding-top: 0;
 }
 
 @include media-query($on-palm) {
@@ -276,6 +271,7 @@
     line-height: 30px;
     font-weight: bold;
     padding: 0;
+    z-index: 9999;
 
     &:hover {
         background-color: darken($grey-color-light, 15%);
@@ -334,7 +330,7 @@
 
     &:hover {
         background: none !important;
-        
+
         .rss-text {
             background: $grey-color !important;
             color: white;

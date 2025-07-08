@@ -1,20 +1,21 @@
 ---
-
 ---
 
-@import "minima";
+@import 'minima';
 
 /**
  * Links
  */
 
-.site-header a:hover, .site-footer a:hover {
+.site-header a:hover,
+.site-footer a:hover {
     opacity: 0.5;
     transition: opacity 0.4s;
     text-decoration: none !important;
 }
 
-.page-content a, .back-to a {
+.page-content a,
+.back-to a {
     font-weight: 600;
     text-decoration: none !important;
 
@@ -23,7 +24,8 @@
     background-repeat: repeat-x;
     background-size: 6px 2px;
 
-    &, &:visited {
+    &,
+    &:visited {
         color: $brand-color;
     }
 
@@ -39,8 +41,14 @@
  * All pages
  */
 
-.page-content, .back-to {
-    h1, h2, h3, h4, h5, h6 {
+.page-content,
+.back-to {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
         font-weight: 700;
         color: $brand-color;
     }
@@ -49,7 +57,7 @@
         background: $brand-color;
         color: $light-color;
     }
-    
+
     ::-moz-selection {
         background: $brand-color;
         color: $light-color;
@@ -64,5 +72,15 @@
     p {
         margin-top: $spacing-unit / 4 !important;
         margin-bottom: $spacing-unit / 4 !important;
+    }
+}
+
+.sub-button {
+    color: $light-color !important;
+    background-color: $brand-color !important;
+
+    &:hover {
+        color: $light-color !important;
+        background-color: $brand-color !important;
     }
 }
