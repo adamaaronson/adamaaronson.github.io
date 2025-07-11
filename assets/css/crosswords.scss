@@ -244,6 +244,9 @@
     position: relative;
     background: white;
     border-radius: $big-border-radius;
+    width: 480px;
+    max-width: 95%;
+    padding: $spacing-unit * 0.5;
 }
 
 @include media-query($on-palm) {

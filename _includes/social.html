@@ -56,7 +56,7 @@
         <a
             href="https://bsky.app/profile/{{ site.bluesky_username| cgi_escape | escape }}.bsky.social"
             ><img class="svg-icon" src="/assets/images/bluesky.svg" />
-            <span class="username">{{ site.github_username| escape }}</span></a
+            <span class="username">{{ site.bluesky_username| escape }}</span></a
         >
     </li>
     {%- endif -%} {%- if site.github_username -%}
