@@ -71,6 +71,16 @@
             <span class="username">{{ site.github_username| escape }}</span></a
         >
     </li>
+    {%- endif -%} {%- if site.substack_username -%}
+    <li>
+        <a
+            href="https://{{ site.substack_username| cgi_escape | escape }}.substack.com"
+            ><img class="svg-icon" src="/assets/images/substack.svg" />
+            <span class="username"
+                >{{ site.substack_username| escape }}</span
+            ></a
+        >
+    </li>
     {%- endif -%} {%- if site.instagram_username -%}
     <li>
         <a
