@@ -26,10 +26,13 @@
     }
 }
 
-.blog-post-box:first-child {
+.blog-post-item:first-child {
     @media (min-width: 500px) {
-        background-color: $grey-color-light;
         grid-column: span 2;
+
+        .blog-post-box {
+            background-color: $grey-color-light;
+        }
 
         .blog-post-box-header {
             display: flex;
