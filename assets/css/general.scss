@@ -37,6 +37,23 @@
     }
 }
 
+a.iba {
+    font-weight: bold;
+    background-image: linear-gradient($hard-color 0%, $hard-color 100%);
+    background-position: 0 1.15em;
+    background-repeat: repeat-x;
+    background-size: 6px 2px;
+
+    &,
+    &:visited {
+        color: $text-color;
+    }
+
+    &:hover {
+        color: $light-color;
+    }
+}
+
 /**
  * All pages
  */
