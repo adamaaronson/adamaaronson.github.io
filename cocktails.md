@@ -1,7 +1,7 @@
 ---
 layout: page
-back-to: Square Theory
-back-to-link: /blog/
+back-to: Blog
+back-to-link: /blog
 title: IBA Official Cocktails
 permalink: /cocktails/
 ---
