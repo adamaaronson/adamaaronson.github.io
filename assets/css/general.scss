@@ -39,10 +39,7 @@
 
 a.iba {
     font-weight: bold;
-    background-image: linear-gradient($hard-color 0%, $hard-color 100%);
-    background-position: 0 1.15em;
-    background-repeat: repeat-x;
-    background-size: 6px 2px;
+    background-image: none;
 
     &,
     &:visited {
@@ -50,7 +47,7 @@ a.iba {
     }
 
     &:hover {
-        color: $light-color;
+        color: $hard-color;
     }
 }
 

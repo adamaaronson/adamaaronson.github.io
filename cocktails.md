@@ -6,7 +6,7 @@ title: IBA Official Cocktails
 permalink: /cocktails/
 ---
 
-As of 2025, there are 102 [IBA official cocktails](https://iba-world.com/cocktails/all-cocktails/){: .iba}, and I've had all 102 of them:
+As of 2025, there are 102 [IBA official cocktails](https://iba-world.com/cocktails/all-cocktails/), and I've had all 102 of them:
 
 -   [Alexander](https://iba-world.com/iba-cocktail/alexander/){: .iba} (Satan's Whiskers, London, November 9, 2024)
 -   [Americano](https://iba-world.com/iba-cocktail/americano/){: .iba} (Aidan's apartment, Champaign, December 5, 2022)
