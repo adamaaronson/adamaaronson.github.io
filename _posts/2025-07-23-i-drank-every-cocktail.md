@@ -11,7 +11,7 @@ The IBA official cocktail list is the kind of list that has [its own Sporcle qui
 
 As of 2025, there are 102 IBA official cocktails, and as of July 12, 2025, [I've had every one of them](https://aaronson.org/cocktails/).
 
-The journey has taken me to some interesting places, and now that it's done, I have a little story to tell for each cocktail. I'm not gonna tell you all 102 stories, but I do want to debrief the experience. Drinking all 102 cocktails turned out to be unexpectedly tricky, and for reasons you'll soon understand, I might be the first person in the world to do it.
+The journey has taken me to some interesting places, and now that it's done, I have a little story to tell for each cocktail. I'm not gonna tell you all 102 stories, but I do want to debrief the experience. Drinking all 102 cocktails turned out to be unexpectedly tricky, and for reasons you'll soon understand, I might be one of the first people in the world to do it.
 
 {: .aside}
 
@@ -157,7 +157,7 @@ Up until this point, I had acquired every cocktail by ordering it at a bar (or a
 
 The plan: gather all the ingredients, batch-prepare some IBA Tikis, and throw perhaps the world's first IBA Tiki party. Incidentally, my 24th birthday was quickly approaching, so I even had an occasion for the celebration.
 
-The rums, of course, were the hard part. I can't exactly explain what I did in a blog post, but let's just say we were about to have the most faithful IBA Tikis that had ever been made in the United States. (Shoutouts to my mom and my sister, who both played instrumental roles in the operation.)
+The rums, of course, were the hard part. I can't exactly explain what I did in a blog post, but let's just say we were about to have some of the most faithful IBA Tikis that had ever been made in the United States. (Shoutouts to my mom and my sister, who both played instrumental roles in the operation.)
 
 The rest of the ingredients were straightforward enough. [Amaretto](https://en.wikipedia.org/wiki/Amaretto), check. [Luxardo maraschino](https://en.wikipedia.org/wiki/Girolamo_Luxardo), check. [Frangelico](https://en.wikipedia.org/wiki/Frangelico) (hazelnut liqueur, which the IBA Tiki is the only IBA official cocktail to include), check. The juices and purée and _gengibre_, check. All that was left was to put it all together.
 
@@ -333,7 +333,7 @@ So from my research and my interactions with dozens of bartenders, I recategoriz
     </div>
 </div>
 
-Between the [Canchanchara](https://iba-world.com/iba-cocktail/canchanchara/){: .iba}, [IBA Tiki](https://iba-world.com/iba-cocktail/iba-tiki/){: .iba}, [Spicy Fifty](https://iba-world.com/iba-cocktail/spicy-fifty/){: .iba}, [Ve.n.to](https://iba-world.com/iba-cocktail/ve-n-to/){: .iba}, and the relative obscurity of several others, you really have to be trying hard if you want to drink all 102. As far as I could find, no one else online has done so, at least not since the update that brought the IBA Tiki along. (It seems possible that someone high up at the IBA has tried one of everything, but I bet they made a lot of them themselves.)
+Between the [Canchanchara](https://iba-world.com/iba-cocktail/canchanchara/){: .iba}, [IBA Tiki](https://iba-world.com/iba-cocktail/iba-tiki/){: .iba}, [Spicy Fifty](https://iba-world.com/iba-cocktail/spicy-fifty/){: .iba}, [Ve.n.to](https://iba-world.com/iba-cocktail/ve-n-to/){: .iba}, and the relative obscurity of several others, you really have to be trying hard if you want to drink all 102. As far as I could find, no one else online has done so, at least not since the update that brought the IBA Tiki along. (It seems possible that someone high up at the IBA has tried one of everything, but I bet they made a lot of them themselves.) (Update after posting: it looks like [some folks on Reddit](https://www.reddit.com/r/cocktails/comments/1m7ch2v/i_drank_all_102_iba_official_cocktails/) have made their way through the list!)
 
 ![Satan's Whiskers Wikipedia infobox](/assets/images/cocktail-satans-whiskers-2.png){: .img-right .portrait}
 
