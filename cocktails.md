@@ -1,6 +1,6 @@
 ---
 layout: page
-back-to: Blog
+back-to: I Drank Every Cocktail
 back-to-link: /blog/i-drank-every-cocktail
 title: IBA Official Cocktails
 permalink: /cocktails/
