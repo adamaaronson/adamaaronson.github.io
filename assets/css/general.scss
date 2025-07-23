@@ -98,3 +98,23 @@ a.iba {
         background-color: $brand-color !important;
     }
 }
+
+.aside {
+    background-color: $brand-color-light;
+    color: $text-color;
+    border: 1px solid $brand-color-medium;
+    padding: $spacing-unit / 2;
+    border-radius: 5px;
+    font-size: 15px;
+    font-style: normal;
+    margin-top: $spacing-unit * 0.75;
+    margin-bottom: $spacing-unit * 0.75;
+}
+
+.margin-top {
+    margin-top: $spacing-unit !important;
+}
+
+.margin-bottom {
+    margin-bottom: $spacing-unit !important;
+}

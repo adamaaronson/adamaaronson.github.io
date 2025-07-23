@@ -83,7 +83,7 @@ As of 2025, there are 102 [IBA official cocktails](https://iba-world.com/cocktai
 1.  [Porn star martini](https://iba-world.com/iba-cocktail/porn-star-martini/){: .iba} (Satan's Whiskers, London, November 14, 2024)
 1.  [Porto flip](https://iba-world.com/iba-cocktail/porto-flip/){: .iba} (Satan's Whiskers, London, November 11, 2024)
 1.  [Rabo de galo](https://iba-world.com/iba-cocktail/rabo-de-galo/){: .iba} (Amor y Amargo, NYC, November 20, 2024)
-1.  [Ramos fizz](https://iba-world.com/iba-cocktail/ramos-fizz/){: .iba} (Aidan's apartment, Champaign, September 4, 2022)
+1.  [Ramos fizz](https://iba-world.com/iba-cocktail/ramos-fizz/){: .iba} (Aidan's apartment, Champaign, October 20, 2022)
 1.  [Remember the Maine](https://iba-world.com/iba-cocktail/remember-the-maine/){: .iba} (Satan's Whiskers, London, November 14, 2024)
 1.  [Russian spring punch](https://iba-world.com/iba-cocktail/russian-spring-punch/){: .iba} (Dear Irving, NYC, July 3, 2025)
 1.  [Rusty nail](https://iba-world.com/iba-cocktail/rusty-nail/){: .iba} (Gage & Tollner, NYC, June 12, 2024)

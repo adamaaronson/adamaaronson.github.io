@@ -79,7 +79,7 @@
         margin-bottom: 0.5em;
 
         &.portrait {
-            width: max(20%, 300px);
+            width: 30%;
         }
 
         @media (max-width: 500px) {
@@ -116,6 +116,11 @@
 
         img {
             margin: none;
+            width: calc(50% - 0.75em);
+
+            @media (max-width: 500px) {
+                width: 100%;
+            }
         }
     }
 
@@ -217,5 +222,80 @@
 
     th:has(.answers-header) {
         width: 75%;
+    }
+
+    .iba-spectrum {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1.2fr 1fr;
+        margin-bottom: $spacing-unit;
+
+        font-size: min(1em, 2.5vw);
+
+        & > *:not(.empty, .header-header) {
+            border: 1px solid $grey-color-dark;
+            margin-bottom: -1px;
+            margin-right: -1px;
+            padding: $spacing-unit * 0.25;
+
+            @media (max-width: 400px) {
+                padding: $spacing-unit * 0.1;
+            }
+        }
+
+        .header {
+            background-color: $grey-color-light;
+        }
+
+        .header-header {
+            color: $brand-color;
+            font-weight: bold;
+            padding-left: $spacing-unit * 0.25;
+            padding-right: $spacing-unit * 0.25;
+            padding-bottom: $spacing-unit * 0.1;
+            line-height: 1.2em;
+        }
+
+        .ingredient-availability {
+            grid-column: 2 / 5;
+        }
+
+        .name-recognition {
+            align-self: end;
+        }
+
+        h4 {
+            color: $text-color;
+            // text-transform: uppercase;
+            margin-bottom: 0.2em;
+            line-height: 1.2em;
+        }
+
+        h5 {
+            color: $grey-color-dark;
+            font-weight: normal;
+            margin-bottom: 0;
+            line-height: 1.2em;
+        }
+
+        .cocktails {
+            font-size: 0.8em;
+
+            a {
+                display: block;
+                line-height: 1em;
+                padding-bottom: 0.25em;
+                page-break-inside: avoid;
+                break-inside: avoid;
+                -webkit-column-break-inside: avoid;
+            }
+        }
+
+        .two-column {
+            column-count: 2;
+        }
+
+        .none {
+            color: $grey-color;
+        }
     }
 }
