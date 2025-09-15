@@ -35,7 +35,7 @@ First semester that year, I took a [Beverage Management](https://staging.fshn.il
 
 Some time after graduating and moving to New York City, I began to reckon with Legal Cocktails. What really counted as a "classic" cocktail? Where do I draw the line? It felt a little arbitrary. So on May 9, 2024, I decided to retcon the list into a checklist, and nix the "legal" requirement (something something statute of limitations). I had heard of the IBA official cocktail list from my time on Sporcle and Wikipedia, so it seemed like as good a list as any to base mine on.
 
-At that point, there were 89 IBA official cocktails, and I had tried 33 of them (a bunch of the ones on Legal Cocktails weren't IBA official, like the Jägerbomb and, weirdly, the amaretto sour). One thing was for sure: I had a lot of drinking to do.
+At that point, there were 89 IBA official cocktails, and I had tried 33 of them (a bunch of the ones on Legal Cocktails weren't IBA official, like the Jägerbomb and, weirdly, the amaretto sour). One thing was clear: I had a lot of drinking to do.
 
 ## Anatomy of a list
 
