@@ -5,4 +5,6 @@ permalink: /crosswords/
 position: 3
 ---
 
-In my spare time, I make crossword puzzles! I've had [puzzles published](/publications) in outlets like the _New York Times_, _The New Yorker_, and the _Wall Street Journal_. But sometimes I make a puzzle that's not destined for mainstream publication, one that's more fit for my own little corner of the internet. Introducing&hellip;
+I've been making crossword puzzles since 2019. My puzzles have been published in outlets like _The New York Times_, _The New Yorker_, and _The Wall Street Journal_, and I make music-themed puzzles every other weekday for [_Billboard_](https://www.billboard.com/p/billboard-crossword/). For a full list of the crosswords I've had published in newspapers and other outlets, check out my [publications](/publications).
+
+But sometimes I make a puzzle that's not destined for mainstream publication, one that's more fit for my own little corner of the internet. And you've found yourself at that corner.

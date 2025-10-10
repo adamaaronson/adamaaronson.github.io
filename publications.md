@@ -5,7 +5,7 @@ title: Publications
 permalink: /publications/
 ---
 
-I've been lucky enough to have some of my crossword puzzles published in real live newspapers and other publications! Here's a list of said puzzles, along with links to where you can solve them.
+Here's a full list of my crosswords that have been published in newspapers and other publications, along with links to where you can solve them.
 
 <small>(\* = subscription required)</small>
 
