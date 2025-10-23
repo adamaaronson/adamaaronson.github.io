@@ -9,6 +9,7 @@ Here's a full list of my crosswords that have been published in newspapers and o
 
 <small>(\* = subscription required)</small>
 
+Oct. 2025 – present | _Billboard_ | [10x10 puzzles every other weekday](https://www.billboard.com/author/adam-aaronson/)
 Monday, Oct. 20, 2025 | _The New York Times_ | [Untitled (Themed)](https://www.nytimes.com/crosswords/game/daily/2025/10/20)\*
 Tuesday, Jul. 1, 2025 | _The New York Times_ | [Untitled (Themed w/ Michael Garbus)](https://www.nytimes.com/crosswords/game/daily/2025/07/01)\*
 Wednesday, Jun. 25, 2025 | _The New Yorker_ | [Closing the books](https://www.newyorker.com/puzzles-and-games-dept/crossword/2025/06/25)
