@@ -50,6 +50,8 @@ Saturday, Jan. 4, 2020 | _The New York Times_ | [Untitled (Themeless)](https://w
 
 Here are some puzzles I've had published in other independent venues online!
 
+Oct. 29, 2025 | Puzzmo | [Sugarcoated (w/ Alina Abidi)](https://www.puzzmo.com/puzzle/2025-10-29/crossword)\*
+Oct. 15, 2025 | Jet Lag: The Game | [Amy's Puzzle Box](https://x.com/aaaronson/status/1982438274447593742)
 Oct. 22, 2024 | Puzzmo | [Net Games](https://www.puzzmo.com/puzzle/2024-10-22/crossword)\*
 Aug. 27, 2024 | Puzzmo | [Tones of Voice](https://www.puzzmo.com/puzzle/2024-08-27/crossword)\*
 Jul. 26, 2024 | AVCX+ | [You're on the Right Track (Themeless)](https://avxwords.com/puzzles/1636/)\*
