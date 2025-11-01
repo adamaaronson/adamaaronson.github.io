@@ -68,6 +68,13 @@ May 25, 2021 | 7xwords | [May 25 (7x7)](https://www.7xwords.com/daily/05/05-25.h
 Mar. 9, 2021 | 7xwords | [March 9 (7x7)](https://www.7xwords.com/daily/03/03-09.html)
 Aug. 19, 2020 | Sid's Grids | [Key Change (Themeless)](https://www.sidsgrids.com/post/puzzle-43-key-change-themeless-by-adam-aaronson)
 
+#### Other puzzles
+
+October 20–26, 2025 | Bloomberg | [Alphadots](https://www.bloomberg.com/games/alphadots/archive/2025-10-20)\*
+June 2025 | Bloomberg Businessweek | [Ticker Tape](https://x.com/aaaronson/status/1925586732889649162)
+September 27, 2024 | Lateral | [103: Polo pitch invaders](https://overcast.fm/+8tVCVDmX0/17:57)
+July 28, 2024 | NPR | [Sunday Puzzle](https://www.npr.org/2024/07/27/nx-s1-5051887/sunday-puzzle-six-letter-to-eight-letter-words)
+
 #### Miscellaneous press
 
 -   [How Gen Z Made the Crossword Their Own](https://www.nytimes.com/2024/04/13/style/gen-z-crosswords.html?unlocked_article_code=1.kE0.wEmA.LkqRVprqqULb&smid=url-share) (_The New York Times_, Apr. 13, 2024)
