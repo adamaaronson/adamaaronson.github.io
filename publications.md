@@ -75,8 +75,9 @@ Mar. 14, 2022 | Boswords Themeless League | [Untitled (Themeless)](https://www.b
 
 #### Other puzzles
 
+Dec. 2025 | _Bloomberg Businessweek_ | [Joint Ventures](https://x.com/aaaronson/status/1991214008959963611)
 Oct. 20–26, 2025 | Bloomberg | [Alphadots](https://www.bloomberg.com/games/alphadots/archive/2025-10-20)\*
-Jun. 2025 | Bloomberg Businessweek | [Ticker Tape](https://x.com/aaaronson/status/1925586732889649162)
+Jun. 2025 | _Bloomberg Businessweek_ | [Ticker Tape](https://x.com/aaaronson/status/1925586732889649162)
 Sep. 27, 2024 | Lateral | [103: Polo pitch invaders](https://overcast.fm/+8tVCVDmX0/17:57)
 Jul. 28, 2024 | NPR | [Sunday Puzzle](https://www.npr.org/2024/07/27/nx-s1-5051887/sunday-puzzle-six-letter-to-eight-letter-words)
 
