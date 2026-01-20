@@ -10,6 +10,7 @@ Here's a full list of my crosswords that have been published in newspapers and o
 <small>(\* = subscription required)</small>
 
 Oct. 2025 – present | _Billboard_ | [10x10 puzzles every other weekday](https://www.billboard.com/author/adam-aaronson/)
+Saturday, Jan. 17, 2026 | _The New York Times_ | [Untitled (Themeless)](https://www.nytimes.com/crosswords/game/daily/2026/01/17)\*
 Monday, Oct. 20, 2025 | _The New York Times_ | [Untitled (Themed)](https://www.nytimes.com/crosswords/game/daily/2025/10/20)\*
 Tuesday, Jul. 1, 2025 | _The New York Times_ | [Untitled (Themed w/ Michael Garbus)](https://www.nytimes.com/crosswords/game/daily/2025/07/01)\*
 Wednesday, Jun. 25, 2025 | _The New Yorker_ | [Closing the books](https://www.newyorker.com/puzzles-and-games-dept/crossword/2025/06/25)
@@ -83,12 +84,12 @@ Jul. 28, 2024 | NPR | [Sunday Puzzle](https://www.npr.org/2024/07/27/nx-s1-50518
 
 #### Miscellaneous press
 
--   [How Gen Z Made the Crossword Their Own](https://www.nytimes.com/2024/04/13/style/gen-z-crosswords.html?unlocked_article_code=1.kE0.wEmA.LkqRVprqqULb&smid=url-share) (_The New York Times_, Apr. 13, 2024)
+- [How Gen Z Made the Crossword Their Own](https://www.nytimes.com/2024/04/13/style/gen-z-crosswords.html?unlocked_article_code=1.kE0.wEmA.LkqRVprqqULb&smid=url-share) (_The New York Times_, Apr. 13, 2024)
 
--   [They're clued in: UI trio's puzzle published in New York Times](https://www.news-gazette.com/news/local/university-illinois/theyre-clued-in-ui-trios-puzzle-published-in-new-york-times/article_401e370b-d7c1-5fd3-b3ea-201615a2a4a9.html) (_The News-Gazette_, Feb. 9, 2022)
+- [They're clued in: UI trio's puzzle published in New York Times](https://www.news-gazette.com/news/local/university-illinois/theyre-clued-in-ui-trios-puzzle-published-in-new-york-times/article_401e370b-d7c1-5fd3-b3ea-201615a2a4a9.html) (_The News-Gazette_, Feb. 9, 2022)
 
--   [IL Teen Creates NYT Crosswords](https://will.illinois.edu/21stshow/story/il-teen-creates-nyt-crosswords) (Illinois Public Media's _The 21st Show_, Nov. 12, 2020)
+- [IL Teen Creates NYT Crosswords](https://will.illinois.edu/21stshow/story/il-teen-creates-nyt-crosswords) (Illinois Public Media's _The 21st Show_, Nov. 12, 2020)
 
--   [The puzzle maker](https://las.illinois.edu/news/2020-04-13/puzzle-maker) (_Illinois LAS News_, Apr. 13, 2020)
+- [The puzzle maker](https://las.illinois.edu/news/2020-04-13/puzzle-maker) (_Illinois LAS News_, Apr. 13, 2020)
 
--   [Illinois student's puzzle to appear in The New York Times](https://news.illinois.edu/view/6367/805278) (_Illinois News Bureau_, Jan. 2, 2020)
+- [Illinois student's puzzle to appear in The New York Times](https://news.illinois.edu/view/6367/805278) (_Illinois News Bureau_, Jan. 2, 2020)
