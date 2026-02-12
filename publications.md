@@ -5,11 +5,12 @@ title: Publications
 permalink: /publications/
 ---
 
-Here's a full list of my crosswords that have been published in newspapers and other publications, along with links to where you can solve them.
+Here's a full list of my crosswords that have been published in news outlets, along with links to where you can solve them.
 
 <small>(\* = subscription required)</small>
 
-Oct. 2025 – present | _Billboard_ | [10x10 puzzles every other weekday](https://www.billboard.com/author/adam-aaronson/)
+Wednesday, Feb. 11, 2026 | _Universal Crossword_ | [Playing Around](/assets/pdf/playingaround.pdf) ([puz](/assets/puz/playingaround.puz), [solution](/assets/pdf/playingaroundsolution.pdf))
+Oct. 2025 – Feb. 2026 | _Billboard_ | [Music-themed 10x10 puzzles](https://www.billboard.com/author/adam-aaronson/)
 Saturday, Jan. 17, 2026 | _The New York Times_ | [Untitled (Themeless)](https://www.nytimes.com/crosswords/game/daily/2026/01/17)\*
 Monday, Oct. 20, 2025 | _The New York Times_ | [Untitled (Themed)](https://www.nytimes.com/crosswords/game/daily/2025/10/20)\*
 Tuesday, Jul. 1, 2025 | _The New York Times_ | [Untitled (Themed w/ Michael Garbus)](https://www.nytimes.com/crosswords/game/daily/2025/07/01)\*
@@ -71,6 +72,7 @@ Aug. 19, 2020 | Sid's Grids | [Key Change (Themeless)](https://www.sidsgrids.com
 
 #### Tournament crosswords
 
+Feb. 1, 2026 | Boswords Winter Wondersolve | [Skipping a Grade](https://www.boswords.org)\*
 Aug. 24, 2024 | Lollapuzzoola | [Drop Tower (w/ Alina Abidi)](https://bemoresmarter.com/lollapuzzoola18/)\*
 Mar. 14, 2022 | Boswords Themeless League | [Untitled (Themeless)](https://www.boswords.org)\*
 
