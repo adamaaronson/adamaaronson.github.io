@@ -9,6 +9,7 @@ Here's a full list of my crosswords that have been published in news outlets, al
 
 <small>(\* = subscription required)</small>
 
+Tuesday, Feb. 24, 2026 | _The New York Times_ | [Untitled (Themed)](https://www.nytimes.com/crosswords/game/daily/2026/02/24)\*
 Wednesday, Feb. 11, 2026 | _Universal Crossword_ | [Playing Around](/assets/pdf/playingaround.pdf) ([puz](/assets/puz/playingaround.puz), [solution](/assets/pdf/playingaroundsolution.pdf))
 Oct. 2025 – Feb. 2026 | _Billboard_ | [Music-themed 10x10 puzzles](https://www.billboard.com/author/adam-aaronson/)
 Saturday, Jan. 17, 2026 | _The New York Times_ | [Untitled (Themeless)](https://www.nytimes.com/crosswords/game/daily/2026/01/17)\*
@@ -83,6 +84,11 @@ Oct. 20–26, 2025 | Bloomberg | [Alphadots](https://www.bloomberg.com/games/alp
 Jun. 2025 | _Bloomberg Businessweek_ | [Ticker Tape](https://x.com/aaaronson/status/1925586732889649162)
 Sep. 27, 2024 | Lateral | [103: Polo pitch invaders](https://overcast.fm/+8tVCVDmX0/17:57)
 Jul. 28, 2024 | NPR | [Sunday Puzzle](https://www.npr.org/2024/07/27/nx-s1-5051887/sunday-puzzle-six-letter-to-eight-letter-words)
+
+#### Awards
+
+2025 | ORCAS | Best Crossword-Related Media | [Square Theory](https://aaronson.org/blog/square-theory)
+2024 | ORCAS | Best Midi Crossword | [Happy Pi Day!](https://www.puzzmo.com/puzzle/2024-03-14/crossword)\*
 
 #### Miscellaneous press
 
