@@ -90,6 +90,10 @@ Jul. 28, 2024 | NPR | [Sunday Puzzle](https://www.npr.org/2024/07/27/nx-s1-50518
 2025 | ORCAS | Best Crossword-Related Media | [Square Theory](https://aaronson.org/blog/square-theory)
 2024 | ORCAS | Best Midi Crossword | [Happy Pi Day!](https://www.puzzmo.com/puzzle/2024-03-14/crossword)\*
 
+#### Talks
+
+- [Square Theory](https://www.youtube.com/watch?v=iEa_Arn9pH0) (Crossword Con, Apr. 10, 2026)
+
 #### Miscellaneous press
 
 - [How Gen Z Made the Crossword Their Own](https://www.nytimes.com/2024/04/13/style/gen-z-crosswords.html?unlocked_article_code=1.kE0.wEmA.LkqRVprqqULb&smid=url-share) (_The New York Times_, Apr. 13, 2024)
