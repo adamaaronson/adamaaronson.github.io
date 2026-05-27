@@ -9,6 +9,7 @@ Here's a full list of my crosswords that have been published in news outlets, al
 
 <small>(\* = subscription required)</small>
 
+Tuesday, May 26, 2026 | _The New Yorker_ | [Left speechless](https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/05/26)
 Tuesday, Feb. 24, 2026 | _The New York Times_ | [Untitled (Themed)](https://www.nytimes.com/crosswords/game/daily/2026/02/24)\*
 Wednesday, Feb. 11, 2026 | _Universal Crossword_ | [Playing Around](/assets/pdf/playingaround.pdf) ([puz](/assets/puz/playingaround.puz), [solution](/assets/pdf/playingaroundsolution.pdf))
 Oct. 2025 – Feb. 2026 | _Billboard_ | [Music-themed 10x10 puzzles](https://www.billboard.com/author/adam-aaronson/)
