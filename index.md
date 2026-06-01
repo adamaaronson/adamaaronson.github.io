@@ -15,7 +15,7 @@ I'm Adam Aaronson, and I like making things, especially software, music, and puz
     <img src="/assets/images/adam.jpg" alt="Adam at Canyonlands National Park" />
 </div>
 
-Born and raised in Chicagoland, I'm now living in New York City working as a software engineer at [Bloomberg](https://www.bloomberg.com). I graduated from the University of Illinois Urbana-Champaign in 2023 with a Computer Science major and a Linguistics minor.
+Born and raised in Chicagoland, I'm now living in New York City working as a software engineer at [The New York Times Games](https://www.nytimes.com/crosswords). I graduated from the University of Illinois Urbana-Champaign in 2023 with a Computer Science major and a Linguistics minor.
 
 I also play jazz trombone, electric bass, and ukulele, listen to a lot of [music](https://aaronson.org/full-moon-albums/), write [blog](/blog) posts and [Wikipedia](https://en.wikipedia.org/wiki/User:BanjoZebra) articles, and eat and drink anything that tastes good.
 
