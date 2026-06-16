@@ -51,6 +51,20 @@ a.iba {
     }
 }
 
+a.food-link {
+    font-weight: bold;
+    background-image: none;
+
+    &,
+    &:visited {
+        color: $text-color;
+    }
+
+    &:hover {
+        color: $grey-color;
+    }
+}
+
 /**
  * All pages
  */

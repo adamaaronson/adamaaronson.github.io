@@ -41,8 +41,12 @@
             align-items: center;
         }
 
+        .blog-post-title-wrapper {
+            flex: 1;
+        }
+
         .blog-post-image-wrapper {
-            width: 50%;
+            flex: 1;
         }
     }
 }
