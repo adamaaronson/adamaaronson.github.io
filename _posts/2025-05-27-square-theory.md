@@ -3,7 +3,7 @@ title: 'Square Theory'
 image: '/assets/images/square-theory.png'
 ---
 
-The story starts in [Crosscord](https://discord.com/invite/GPyU97XBGX), the crossword Discord server. Over 5,000 users strong, the server has emerged as a central hub for the online crossword community, a buzzing, sometimes overwhelming, sometimes delightful town square where total noobs, veteran constructors, and champion solvers alike come together to talk about words that cross each other.
+The story starts in [Crosscord](https://discord.gg/qFVuHaddDc), the crossword Discord server. Over 5,000 users strong, the server has emerged as a central hub for the online crossword community, a buzzing, sometimes overwhelming, sometimes delightful town square where total noobs, veteran constructors, and champion solvers alike come together to talk about words that cross each other.
 
 ## Square roots
 
