@@ -9,8 +9,11 @@ Here's a full list of my crosswords that have been published in news outlets, al
 
 <small>(\* = subscription required)</small>
 
+Monday, Nov. 2, 2026 | _The New York Times_ | [The Midi](https://www.nytimes.com/crosswords/game/midi/2026/11/02)\*
+Wednesday, Sep. 16, 2026 | _The New York Times_ | [The Mini](https://www.nytimes.com/crosswords/game/mini/2026/09/16)\*
+Tuesday, Sep. 15, 2026 | _The New York Times_ | [Mystery Mini](https://www.nytimes.com/games/bonus/crossword/mini/2026-09-15)\*
 Wednesday, Sep. 2, 2026 | _The New Yorker_ | [Coverups (w/ Alina Abidi)](https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/09/02)
-Wednesday, Aug. 26, 2026 | _The New York Times_ | [Untitled (Mini)](https://www.nytimes.com/crosswords/game/mini/2026/08/26)\*
+Wednesday, Aug. 26, 2026 | _The New York Times_ | [The Mini](https://www.nytimes.com/crosswords/game/mini/2026/08/26)\*
 Tuesday, May 26, 2026 | _The New Yorker_ | [Left speechless](https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/05/26)
 Tuesday, Feb. 24, 2026 | _The New York Times_ | [Untitled (Themed)](https://www.nytimes.com/crosswords/game/daily/2026/02/24)\*
 Wednesday, Feb. 11, 2026 | _Universal Crossword_ | [Playing Around](/assets/pdf/playingaround.pdf) ([puz](/assets/puz/playingaround.puz), [solution](/assets/pdf/playingaroundsolution.pdf))
