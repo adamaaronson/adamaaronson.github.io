@@ -9,7 +9,7 @@ Here's a full list of my crosswords that have been published in news outlets, al
 
 <small>(\* = subscription required)</small>
 
-Monday, Nov. 2, 2026 | _The New York Times_ | [The Midi](https://www.nytimes.com/crosswords/game/midi/2026/11/02)\*
+Monday, Nov. 2, 2026 | _The New York Times_ | [Going Back for Seconds (Midi)](https://www.nytimes.com/crosswords/game/midi/2026/11/02)\*
 Wednesday, Sep. 16, 2026 | _The New York Times_ | [The Mini](https://www.nytimes.com/crosswords/game/mini/2026/09/16)\*
 Tuesday, Sep. 15, 2026 | _The New York Times_ | [Mystery Mini](https://www.nytimes.com/games/bonus/crossword/mini/2026-09-15)\*
 Wednesday, Sep. 2, 2026 | _The New Yorker_ | [Coverups (w/ Alina Abidi)](https://www.newyorker.com/puzzles-and-games-dept/crossword/2026/09/02)
